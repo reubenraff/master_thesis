@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="antithesis">Risk Factors Summary</segment>
+		<segment id="2" >The following is a summary of the principal risks that could materially adversely affect our business, results of operations, and financial condition, all of which are more fully described in the section titled “Risk Factors ”</segment>
+		<segment id="3" >This summary should be read in conjunction with the “Risk Factors” section and should not be relied upon as an exhaustive summary of the material risks facing our business</segment>
+		<segment id="4" parent="53" relname="sequence">The COVID-19 pandemic and the impact of actions to mitigate the COVID-19 pandemic have materially adversely impacted and will continue to materially adversely impact our business, results of operations, and financial condition</segment>
+		<segment id="5" parent="2" relname="evaluation">We have incurred net losses in each year since inception, and we may not be able to achieve profitability We incurred net losses of $16 9 million, $674 3 million, and $4 6 billion for the years ended December 31, 2018, 2019, and 2020, respectively Our accumulated deficit was $6 0 billion as of December 31, 2020</segment>
+		<segment id="6" >Our Adjusted EBITDA and Free Cash Flow have been declining, and this trend could continue</segment>
+		<segment id="7" parent="56" relname="contrast">Our revenue growth rate has slowed, and we expect it to continue to slow in the future</segment>
+		<segment id="8" parent="55" relname="contrast">If we fail to retain existing hosts or add new hosts, or if hosts fail to provide high-quality stays and experiences, our business, results of operations, and financial condition would be materially adversely affected</segment>
+		<segment id="9" parent="54" relname="contrast">If we fail to retain existing guests or add new guests, our business, results of operations, and financial condition would be materially adversely affected</segment>
+		<segment id="10" parent="57" relname="contrast">Any further and continued decline or disruption in the travel and hospitality industries or economic downturn would materially adversely affect our business, results of operations, and financial condition</segment>
+		<segment id="11" parent="58" relname="contrast">The business and industry in which we participate are highly competitive, and we may be unable to compete successfully with our current or future competitors</segment>
+		<segment id="12" parent="11" relname="evaluation">Laws, regulations, and rules that affect the short-term rental and home sharing business may limit the ability or willingness of hosts to share their spaces over our platform and expose our hosts or us to significant penalties, which could have a material adverse effect on our business, results of operations, and financial condition</segment>
+		<segment id="13" >We are subject to a wide variety of complex, evolving, and sometimes inconsistent and ambiguous laws and regulations that may adversely impact our operations and discourage hosts and guests from using our platform, and that could cause us to incur significant liabilities including fines and criminal penalties, which could have a material adverse effect on our business, results of operations, and financial condition</segment>
+		<segment id="14" >Our substantial level of indebtedness could materially adversely affect our financial condition We had outstanding indebtedness with a principal amount of $1,995 0 million as of December 31, 2020</segment>
+		<segment id="15" >The multi-series structure of our common stock has the effect of concentrating voting control with certain holders of our common stock, including our directors, executive officers, and 5% stockholders and their respective affiliates, who beneficially owned in the aggregate 48 5% of our outstanding capital stock but hold in the aggregate 59 6% of the voting power of our capital stock as of December 31, 2020 This ownership will limit or preclude other stockholders’ ability to influence corporate matters, including the election of directors, amendments of our organizational documents, and any merger, consolidation, sale of all or substantially all of our assets, or other major corporate transaction requiring stockholder approval</segment>
+		<segment id="16" >We may have exposure to greater than anticipated income tax liabilities In December 2020, we received a Notice of Proposed Adjustment from the IRS for the 2013 tax year proposing an increase to our U S taxable income that could result in additional income tax expense and cash tax liability of $1 35 billion, plus penalties and interest, which exceeds our current reserve recorded in our consolidated financial statements by more than $1 0 billion</segment>
+		<segment id="17" >3</segment>
+		<segment id="18" >Table of Contents</segment>
+		<segment id="19" >PART I</segment>
+		<segment id="20" >Item 1 Business</segment>
+		<segment id="21" >Overview</segment>
+		<segment id="22" >Airbnb is a community based on connection</segment>
+		<segment id="23" >and belonging—a community that was born in 2007 when two hosts welcomed three guests to their San Francisco home,</segment>
+		<segment id="24" >and has since grown to 4 million hosts who have welcomed over 800 million guest arrivals to approximately 100,000 cities in almost every country</segment>
+		<segment id="25" >and region across the globe Hosts on Airbnb are everyday people who share their worlds to provide guests with the feeling of connection</segment>
+		<segment id="26" >and being at home Airbnb has five stakeholders and is designed with all of them in mind</segment>
+		<segment id="27" >Along with employees and shareholders, we serve hosts, guests,</segment>
+		<segment id="28" >and the communities in which they live We intend to make long-term decisions considering all of our stakeholders because their collective success is key for our business to thrive</segment>
+		<segment id="29" >Hosting is at the Center</segment>
+		<segment id="30" >Airbnb’s hosts are the foundation of our community and business</segment>
+		<segment id="31" >Stays are made possible by hosts It is their individuality</segment>
+		<segment id="32" >that makes Airbnb unique From schoolteachers to artists,</segment>
+		<segment id="33" >our hosts span more than 220 countries</segment>
+		<segment id="34" >and regions and approximately 100,000 cities</segment>
+		<segment id="35" >As of December 31, 2020, we had 4 million hosts around the world,</segment>
+		<segment id="36" >with 86% of hosts located outside of the United States</segment>
+		<segment id="37" >Airbnb enables hosts to provide guests access to a vast world of unique homes</segment>
+		<segment id="38" >and experiences that were previously inaccessible,</segment>
+		<segment id="39" >or even undiscovered</segment>
+		<segment id="40" >The role of the host is about more than opening their door</segment>
+		<segment id="41" >A great host enables guests to find a deeper connection to the places they visit</segment>
+		<segment id="42" >and the people who live there</segment>
+		<segment id="43" >Our community of hosts started by sharing their spare bedrooms on Airbnb in a few large cities</segment>
+		<segment id="44" >Soon, hosts listed entire homes, cabins, treehouses, boats, castles,</segment>
+		<segment id="45" >and luxury villas — practically any space that you could think of —</segment>
+		<segment id="46" >in big cities, small towns,</segment>
+		<segment id="47" >and rural communities in nearly every corner of the world</segment>
+		<segment id="48" >Our hosts generally fall into two categories: individual</segment>
+		<segment id="49" >and professional</segment>
+		<segment id="50" >Individual hosts are those who activate their listings directly on Airbnb through our website</segment>
+		<segment id="51" >or mobile apps Individual hosts are the core of our host community</segment>
+		<group id="53" type="multinuc" parent="3" relname="contrast"/>
+		<group id="54" type="multinuc" parent="8" relname="antithesis"/>
+		<group id="55" type="multinuc" />
+		<group id="56" type="multinuc" parent="6" relname="evaluation"/>
+		<group id="57" type="multinuc" parent="5" relname="antithesis"/>
+		<group id="58" type="multinuc" />
+	</body>
+</rst>
