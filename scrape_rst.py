@@ -11,7 +11,6 @@ def scrape_rst_files(file: Any) --> dict:
         relation_tags = soup.find_all("segment") #tags
         data_dict = {}
         for relation_tag in relation_tags:
-        #print(relation_tag)
             if len(relation_tag.attrs) == 3:
                 data_dict[relation_tag["relname"]] = relation_tag.text
     return(data_dict)
