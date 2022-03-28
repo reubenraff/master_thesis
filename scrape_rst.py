@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 from typing import Any, dict
 
+""" takes an xml markup file as input and returns a dict with relation names as keys and text as values """
+
 def scrape_rst_files(file: Any) --> dict:
     with open("abnb_lots_of_labels.xml","r") as rst, open("rel_dump.rst", "w") as sink:
         contents = rst.read()
