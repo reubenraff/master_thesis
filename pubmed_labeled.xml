@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Despite inherent limitations,</segment>
+		<segment id="2" parent="35" relname="span">evaluation of a comprehensive EHR</segment>
+		<segment id="3" parent="30" relname="joint">shortly after implementation may be necessary,</segment>
+		<segment id="4" parent="30" relname="joint">can be conducted,</segment>
+		<segment id="5" parent="30" relname="joint">and may inform political decision making.</segment>
+		<segment id="6" parent="36" relname="span">The updated DeLone and McLean framework was constructive</segment>
+		<segment id="7" parent="6" relname="evaluation">in the overall design</segment>
+		<segment id="8" parent="37" relname="span">of the evaluation</segment>
+		<segment id="9" parent="8" relname="elaboration">of the EHR implementation,</segment>
+		<segment id="10" parent="9" relname="purpose">and allowed the model to be adapted to the health care domain</segment>
+		<segment id="11" parent="41" relname="span">by being methodological flexible.</segment>
+		<segment id="12" parent="41" relname="result">The mixed-methods case study produced valid</segment>
+		<segment id="13" parent="39" relname="joint">and reliable results,</segment>
+		<segment id="14" parent="39" relname="joint">and was accepted by staff,</segment>
+		<segment id="15" parent="39" relname="joint">system providers,</segment>
+		<segment id="16" parent="39" relname="joint">and political decision makers.</segment>
+		<segment id="17" parent="42" relname="restatement">The successful implementation may be attributed to the configurability of the EHR</segment>
+		<segment id="18" parent="48" relname="joint">and to factors such as an experienced,</segment>
+		<segment id="19" parent="45" relname="joint">competent implementation organization at the hospital,</segment>
+		<segment id="20" parent="49" relname="joint">upgraded soft-</segment>
+		<segment id="21" parent="50" relname="joint">and hardware,</segment>
+		<segment id="22" parent="53" relname="span">and a high degree of user involvement.</segment>
+		<group id="30" type="multinuc" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="2" relname="evidence"/>
+		<group id="35" type="span" parent="1" relname="justify"/>
+		<group id="36" type="span" parent="34" relname="preparation"/>
+		<group id="37" type="span" parent="7" relname="justify"/>
+		<group id="39" type="multinuc" parent="43" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="42" type="span" parent="36" relname="result"/>
+		<group id="43" type="span" parent="12" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="46" type="span" parent="17" relname="condition"/>
+		<group id="48" type="multinuc" parent="45" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="50" type="multinuc" parent="45" relname="joint"/>
+		<group id="53" type="span" parent="50" relname="joint"/>
+	</body>
+</rst>
