@@ -1,0 +1,945 @@
+89
+Financial Statement Schedule
+Schedule II—Valuation and Qualifying Accounts
+124
+The supplementary financial information required by this Item 8, is included in Part II, Item 7 under the caption "Selected Quarterly Financial Data.”
+79
+Table o
+f Contents
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Stockholders of Airbnb, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Airbnb, Inc. and its subsidiaries (the “Company”) as of December 31, 2020 and 2019, and the related consolidated statements of operations, of comprehensive loss, of redeemable convertible preferred stock and stockholders’ equity (deficit), and of cash flows for each of the three years in the period ended December 31, 2020, including the related notes and schedule of valuation and qualifying accounts for each of the three years in the period ended December 31, 2020 listed in the accompanying index (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2020
+in conformity with accounting principles generally accepted in the United States of America.
+Change in Accounting Principle
+As discussed in Note 2 to the consolidated financial statements, the Company changed the manner in which it accounts for leases in 2019.
+Basis for Opinion
+These consolidated
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s consolidated
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits of these consolidated
+financial statements in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated
+financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated
+financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Uncertain Tax Positions
+As described in Notes 2 and 14 to the consolidated financial statements, the Company has recorded gross unrecognized tax benefits of $507.9 million relating to uncertain tax positions as of December 31, 2020. Management evaluates and accounts for uncertain tax positions using a two-step approach. Recognition, step one, occurs when management concludes that a tax position, based solely on its technical merits, is more-likely-than-not to be sustained upon examination. Measurement, step two, determines the largest amount of benefit that is greater than 50% likely to be realized upon ultimate settlement with a taxing authority that has full knowledge of all relevant information. The Company is in various stages of examination in connection with its ongoing tax audits globally and management believes that an adequate provision has been recorded for any adjustments that may result from tax audits. However, the outcome of tax audits cannot be predicted with certainty. If any issues addressed in the Company’s tax audits are resolved in a manner not consistent with management’s expectations, management may be required to record an adjustment to the provision for (benefit from) income taxes in the period such resolution occurs.
+The principal considerations for our determination that performing procedures relating to uncertain tax positions is a critical audit matter are (i) the significant judgment by management when determining uncertain tax positions, including a high degree of estimation uncertainty relative to the technical merits and the measurement of the tax positions based on interpretations of tax laws and legal rulings; (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating audit evidence relating to management’s recognition and measurement of uncertain tax positions; and (iii) the audit effort involved the use of professionals with specialized skill and knowledge.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included, among others, (i) testing the completeness of management’s assessment of the identification of uncertain tax positions; (ii) testing the recognition and measurement of the liability for uncertain tax positions, including management’s assessment of the technical merits of the tax positions and the amount of tax benefit expected to be sustained; (iii) testing the information used in the calculation of the liability for uncertain tax positions, including intercompany agreements, international, federal, and state filing positions, and the related final tax returns; (iv) evaluating the status and results of income tax audits with the relevant tax
+80
+Table o
+f Contents
+authorities; and (v) evaluating third party income tax documentation obtained by the Company. Professionals with specialized skill and knowledge were used to assist in the evaluation of the completeness and measurement of the Company’s uncertain tax positions, including evaluating the reasonableness of management’s assessment of whether tax positions are more-likely-than-not of being sustained and the amount of potential benefit to be realized, the application of relevant tax laws, and estimated interest and penalties.
+/s/ PricewaterhouseCoopers LLP
+San Francisco, California
+February 26, 2021
+We have served as the Company's auditor since 2011.
+81
+Table o
+f Contents
+Airbnb, Inc.
+Consolidated Balance Sheets
+(in thousands, except per share amounts)
+As of December 31,
+2019
+2020
+Assets
+Current assets:
+Cash and cash equivalents
+$
+2,013,547 
+$
+5,480,557 
+Marketable securities
+1,060,726 
+910,700 
+Restricted cash
+115 
+33,846 
+Funds receivable and amounts held on behalf of customers
+3,145,457 
+2,181,329 
+Prepaids and other current assets (including customer receivables of $129,474 and $189,753 million and allowance of $51,311 and $90,547, respectively)
+341,598 
+309,954 
+Total current assets
+6,561,443 
+8,916,386 
+Property and equipment, net
+301,273 
+270,194 
+Operating lease right-of-use assets
+385,594 
+384,068 
+Intangible assets, net
+102,912 
+75,886 
+Goodwill
+652,088 
+655,801 
+Other assets, noncurrent
+306,809 
+189,164 
+Total assets
+$
+8,310,119 
+$
+10,491,499 
+Liabilities, Redeemable Convertible Preferred Stock and Stockholders’ Equity (Deficit)
+Current liabilities:
+Accounts payable
+$
+151,417 
+$
+79,898 
+Operating lease liabilities, current
+38,022 
+56,586 
+Accrued expenses and other current liabilities
+1,224,080 
+2,414,071 
+Funds payable and amounts payable to customers
+3,145,457 
+2,181,329 
+Unearned fees
+674,788 
+407,895 
+Total current liabilities
+5,233,764 
+5,139,779 
+Long-term debt, net of current portion
+— 
+1,815,562 
+Operating lease liabilities, noncurrent
+381,374 
+430,905 
+Other liabilities, noncurrent
+271,164 
+203,470 
+Total liabilities
+5,886,302 
+7,589,716 
+Commitments and contingencies (Note 13)
+Redeemable convertible preferred stock, $0.0001 par value, 247,217 and zero shares authorized as of December 31, 2019 and 2020, respectively; 239,624 and zero shares issued and outstanding as of December 31, 2019 and 2020, respectively
+3,231,502 
+— 
+Stockholders’ equity (deficit):
+Common stock, $0.0001 par value, 710,000 and 2,000,000 shares of Class A common stock authorized as of December 31, 2019 and 2020, respectively; 16,284 and 115,500 shares of Class A common stock issued and outstanding as of December 31, 2019 and 2020, respectively; 710,000 shares of Class B common stock authorized as of December 31, 2019 and 2020; 247,530 and 483,697 shares of Class B common stock issued and outstanding as of December 31, 2019 and 2020, respectively; zero and 2,000,000 shares of Class C common stock authorized as of December 31, 2019 and 2020, respectively; zero shares of Class C common stock issued and outstanding as of December 31, 2019 and 2020; zero and 26,000 shares of Class H common stock authorized as of December 31, 2019 and 2020, respectively; zero and 9,200 shares issued and zero shares of Class H common stock outstanding as of December 31, 2019 and 2020, respectively
+26 
+60 
+Additional paid-in capital
+617,690 
+8,904,791 
+Accumulated other comprehensive income (loss)
+(4,410)
+2,639 
+Accumulated deficit
+(1,420,991)
+(6,005,707)
+Total stockholders’ equity (deficit)
+(807,685)
+2,901,783 
+Total liabilities, redeemable convertible preferred stock and stockholders’ equity (deficit)
+$
+8,310,119 
+$
+10,491,499 
+The accompanying notes are an integral part of these consolidated financial statements.
+82
+Table o
+f Contents
+Airbnb, Inc.
+Consolidated Statements of Operations
+(in thousands, except per share amounts)
+Year Ended December 31,
+2018
+2019
+2020
+Revenue
+$
+3,651,985 
+$
+4,805,239 
+$
+3,378,199 
+Costs and expenses:
+Cost of revenue
+864,032 
+1,196,313 
+876,042 
+Operations and support
+609,202 
+815,074 
+877,901 
+Product development
+579,193 
+976,695 
+2,752,872 
+Sales and marketing
+1,101,327 
+1,621,519 
+1,175,325 
+General and administrative
+479,487 
+697,181 
+1,134,851 
+Restructuring charges
+— 
+— 
+151,355 
+Total costs and expenses
+3,633,241 
+5,306,782 
+6,968,346 
+Income (loss) from operations
+18,744 
+(501,543)
+(3,590,147)
+Interest income
+66,793 
+85,902 
+27,117 
+Interest expense
+(26,143)
+(9,968)
+(171,688)
+Other income (expense), net
+(12,361)
+13,906 
+(947,220)
+Income (loss) before income taxes
+47,033 
+(411,703)
+(4,681,938)
+Provision for (benefit from) income taxes
+63,893 
+262,636 
+(97,222)
+Net loss
+$
+(16,860)
+$
+(674,339)
+$
+(4,584,716)
+Net loss per share attributable to Class A and Class B common stockholders, basic and diluted
+$
+(0.07)
+$
+(2.59)
+$
+(16.12)
+Weighted-average shares used in computing net loss per share attributable to Class A and Class B common stockholders, basic and diluted
+256,326 
+260,556 
+284,363 
+The accompanying notes are an integral part of these consolidated financial statements.
+83
+Table o
+f Contents
+Airbnb,Inc.
+Consolidated Statements of Comprehensive Loss
+(in thousands)
+Year Ended December 31,
+2018
+2019
+2020
+Net loss
+$
+(16,860)
+$
+(674,339)
+$
+(4,584,716)
+Other comprehensive income (loss):
+Net unrealized gain (loss) on available-for-sale marketable securities, net of tax
+(3,009)
+1,493 
+12 
+Foreign currency translation adjustments
+(6,747)
+2,009 
+7,037 
+Other comprehensive income (loss)
+(9,756)
+3,502 
+7,049 
+Comprehensive loss
+$
+(26,616)
+$
+(670,837)
+$
+(4,577,667)
+The accompanying notes are an integral part of these consolidated financial statements.
+84
+Table o
+f Contents
+Airbnb, Inc.
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders’ Equity (Deficit)
+(in thousands)
+Redeemable
+Convertible Preferred
+Stock
+Common Stock
+Additional
+Paid-In
+Capital
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Accumulated
+Deficit
+Total
+Stockholders’ Equity (Deficit)
+Shares
+Amount
+Shares
+Amount
+Balances as of December 31, 2017
+239,624 
+$
+3,231,502 
+256,713 
+$
+26 
+$
+184,943 
+$
+1,844 
+$
+(753,888)
+$
+(567,075)
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(16,860)
+(16,860)
+Cumulative effect from adoption of ASU 2016-01
+— 
+— 
+— 
+— 
+— 
+(1,860)
+1,860 
+— 
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+(6,747)
+— 
+(6,747)
+Net unrealized loss on marketable securities
+— 
+— 
+— 
+— 
+— 
+(1,149)
+— 
+(1,149)
+Issuance of common stock for acquisition of businesses
+— 
+— 
+77 
+— 
+4,587 
+— 
+— 
+4,587 
+Exercise of common stock options
+— 
+— 
+1,142 
+— 
+16,043 
+— 
+— 
+16,043 
+Exercise of common stock warrants
+— 
+— 
+68 
+— 
+— 
+— 
+— 
+— 
+Restricted stock issued with compensation arrangements
+— 
+— 
+92 
+— 
+— 
+— 
+— 
+— 
+Stock-based compensation
+— 
+— 
+— 
+— 
+53,893 
+— 
+— 
+53,893 
+Balances as of December 31, 2018
+239,624 
+3,231,502 
+258,092 
+26 
+259,466 
+(7,912)
+(768,888)
+(517,308)
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(674,339)
+(674,339)
+Cumulative effect from adoption of ASU 2016-02
+— 
+— 
+— 
+— 
+— 
+— 
+22,236 
+22,236 
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+2,009 
+— 
+2,009 
+Net unrealized gain on marketable securities
+— 
+— 
+— 
+— 
+— 
+1,493 
+— 
+1,493 
+Issuance of common stock for vesting of restricted stock units
+— 
+— 
+1 
+— 
+— 
+— 
+— 
+— 
+Issuance of common stock for acquisition of businesses
+— 
+— 
+4,307 
+— 
+240,687 
+— 
+— 
+240,687 
+Exercise of common stock options
+— 
+— 
+897 
+— 
+5,873 
+— 
+— 
+5,873 
+Exercise of common stock warrant
+— 
+— 
+145 
+— 
+— 
+— 
+— 
+— 
+Restricted stock issued with compensation arrangements
+— 
+— 
+372 
+— 
+— 
+— 
+— 
+— 
+Reclassification of derivative warrant liability to equity
+— 
+— 
+— 
+— 
+14,117 
+— 
+— 
+14,117 
+Stock-based compensation
+— 
+— 
+— 
+— 
+97,547 
+— 
+— 
+97,547 
+Balances as of December 31, 2019
+239,624 
+$
+3,231,502 
+263,814 
+$
+26 
+$
+617,690 
+$
+(4,410)
+$
+(1,420,991)
+$
+(807,685)
+The accompanying notes are an integral part of these consolidated financial statements.
+85
+Table o
+f Contents
+Airbnb, Inc.
+Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders’ Equity (Deficit)
+(in thousands)
+Redeemable
+Convertible Preferred
+Stock
+Common Stock
+Additional
+Paid-In
+Capital
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Accumulated
+Deficit
+Total
+Stockholders’ Equity (Deficit)
+Shares
+Amount
+Shares
+Amount
+Balances as of December 31, 2019
+239,624 
+$
+3,231,502 
+263,814 
+$
+26 
+$
+617,690 
+$
+(4,410)
+$
+(1,420,991)
+$
+(807,685)
+Net loss
+— 
+— 
+— 
+— 
+— 
+— 
+(4,584,716)
+(4,584,716)
+Foreign currency translation adjustments
+— 
+— 
+— 
+— 
+— 
+7,037 
+— 
+7,037 
+Net unrealized gain on marketable securities
+— 
+— 
+— 
+— 
+— 
+12 
+— 
+12 
+Capital contribution from founders
+— 
+— 
+— 
+— 
+14,615 
+— 
+— 
+14,615 
+Cancellation of restricted stock awards
+— 
+— 
+(21)
+— 
+— 
+— 
+— 
+— 
+Exercise of common stock options
+— 
+— 
+7,495 
+— 
+15,074 
+— 
+— 
+15,074 
+Exercise of common stock warrants
+— 
+— 
+238 
+— 
+— 
+— 
+— 
+— 
+Issuance of common stock in connection with initial public offering, net of underwriting discounts and issuance costs
+— 
+— 
+55,000 
+6 
+3,650,864 
+— 
+— 
+3,650,870 
+Issuance of common stock upon settlement of RSUs, net of shares withheld
+— 
+— 
+31,760 
+4 
+(1,650,458)
+— 
+— 
+(1,650,454)
+Conversion of redeemable convertible preferred stock to common stock in connection with initial public offering
+(239,624)
+(3,231,502)
+240,911 
+24 
+3,231,478 
+— 
+— 
+3,231,502 
+Settlement of contingent consideration liability settled in shares
+— 
+— 
+— 
+— 
+22,363 
+— 
+— 
+22,363 
+Stock-based compensation
+— 
+— 
+— 
+— 
+3,003,165 
+— 
+— 
+3,003,165 
+Balances as of December 31, 2020
+— 
+$
+— 
+599,197 
+$
+60 
+$
+8,904,791 
+$
+2,639 
+$
+(6,005,707)
+$
+2,901,783 
+The accompanying notes are an integral part of these consolidated financial statements.
+86
+Table o
+f Contents
+Airbnb, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+Year Ended December 31,
+2018
+2019
+2020
+Cash flows from operating activities:
+Net loss
+$
+(16,860)
+$
+(674,339)
+$
+(4,584,716)
+Adjustments to reconcile net loss to cash provided by (used in) operating activities:
+Depreciation and amortization
+82,401 
+114,162 
+125,876 
+Bad debt expense
+49,028 
+77,053 
+107,685 
+Stock-based compensation expense
+53,893 
+97,547 
+3,001,948 
+Deferred income taxes
+(5,017)
+(5,627)
+(19,601)
+Impairment of investments
+— 
+27,751 
+82,125 
+(Gain) loss on investments, net
+— 
+(38,472)
+31,457 
+Change in fair value of warrant liability
+3,473 
+(286)
+868,539 
+Amortization of debt discount and debt issuance costs
+— 
+— 
+18,323 
+Noncash interest (income) expense, net
+(6,358)
+4,153 
+5,769 
+Foreign exchange (gain) loss
+5,964 
+2,927 
+(53,176)
+Impairment of operating lease right-of-use assets
+— 
+— 
+35,772 
+Other, net
+8,004 
+(2,524)
+34,877 
+Changes in operating assets and liabilities, net of acquisitions:
+Prepaids and other assets
+(102,808)
+(186,445)
+(15,863)
+Operating lease right-of-use assets
+— 
+49,126 
+(33,280)
+Accounts payable
+29,837 
+75,716 
+(73,111)
+Accrued expenses and other liabilities
+348,105 
+547,654 
+43,756 
+Operating lease liabilities
+— 
+(41,923)
+60,897 
+Unearned fees
+145,895 
+176,254 
+(267,009)
+Net cash provided by (used in) operating activities
+595,557 
+222,727 
+(629,732)
+Cash flows from investing activities:
+Purchases of property and equipment
+(90,624)
+(125,452)
+(37,371)
+Purchases of marketable securities
+(1,270,578)
+(1,016,155)
+(3,032,664)
+Sales of marketable securities
+555,161 
+609,438 
+1,348,173 
+Maturities of marketable securities
+201,310 
+551,647 
+1,810,052 
+Payments for equity investments in privately-held companies
+(28,850)
+(208,182)
+— 
+Acquisitions, net of cash acquired
+(31,300)
+(192,116)
+— 
+Other investing activities, net
+(3,290)
+33,665 
+(8,600)
+Net cash provided by (used in) investing activities
+(668,171)
+(347,155)
+79,590 
+The accompanying notes are an integral part of these consolidated financial statements.
+87
+Table o
+f Contents
+Airbnb, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+Year Ended December 31,
+2018
+2019
+2020
+Cash flows from financing activities:
+Proceeds from issuance of common stock upon initial public offering, net of underwriting discounts and offering costs
+$
+— 
+$
+— 
+$
+3,650,870 
+Taxes paid related to net share settlement of equity awards
+— 
+— 
+(1,650,454)
+Proceeds from issuance of long-term debt and warrants, net of issuance costs
+— 
+— 
+1,928,880 
+Principal repayment of long-term debt
+— 
+— 
+(5,000)
+Proceeds from exercise of stock options
+16,043 
+5,873 
+15,074 
+Change in funds payable and amounts payable to customers
+117,587 
+848,706 
+(1,012,081)
+Other financing activities, net
+6,886 
+— 
+13,525 
+Net cash provided by financing activities
+140,516 
+854,579 
+2,940,814 
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash
+(158,919)
+(25,284)
+134,137 
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+(91,017)
+704,867 
+2,524,809 
+Cash, cash equivalents, and restricted cash, beginning of year
+4,529,593 
+4,438,576 
+5,143,443 
+Cash, cash equivalents, and restricted cash, end of year
+$
+4,438,576 
+$
+5,143,443 
+$
+7,668,252 
+Supplemental disclosures of cash flow information:
+Cash paid for income taxes, net of refunds
+$
+44,620 
+$
+28,192 
+$
+15,103 
+Cash paid for interest
+$
+21,151 
+$
+5,178 
+$
+129,798 
+Noncash investing and financing activities:
+Common stock and stock awards issued for acquisitions
+$
+4,587 
+$
+240,687 
+$
+— 
+The accompanying notes are an integral part of these consolidated financial statements.
+88
+Table of Contents
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+Note 1. Description of Business
+Airbnb, Inc. (the “Company” or “Airbnb”) was incorporated in Delaware in June 2008 and is headquartered in San Francisco, California. The Company operates a global platform for unique stays and experiences. The Company’s marketplace model connects hosts and guests (collectively referred to as “customers”) online or through mobile devices to book spaces and experiences around the world.
+Note 2. Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America (“U.S. GAAP”) and include accounts of the Company and its wholly-owned subsidiaries. All intercompany accounts and transactions have been eliminated in consolidation.
+Stock Split
+On October 26, 2020, the Company effected a two-for-one stock split of its common stock and redeemable convertible preferred stock. All share and per share information has been retroactively adjusted to reflect the stock split for all periods presented.
+Initial Public Offering
+The Company’s registration statement on Form S-1 (the “IPO Registration Statement”) related to its initial public offering (“IPO”) was declared effective on December 9, 2020 and the Company’s Class A common stock began trading on the Nasdaq Global Select Market on December 10, 2020. On December 14, 2020, the Company completed its IPO, in which the Company sold 50.0 million shares of Class A common stock at a price to the public of $68.00 per share. On the same day, the Company sold an additional 5.0 million shares of Class A common stock at a price to the public of $68.00 per share pursuant to the exercise of the underwriters’ option to purchase additional shares. The Company received aggregate net proceeds of $3.7 billion after deducting underwriting discounts and commissions of $79.3 million and offering expenses of $9.8 million.
+Upon completing the IPO, all outstanding shares of the Company’s redeemable convertible preferred stock, of which 239,623,894 shares were outstanding prior to the IPO, converted into an aggregate of 240,910,588 shares of our Class B common stock, including 1,286,694 shares of common stock issuable pursuant to the anti-dilution adjustment provisions relating to the Company’s Series C redeemable convertible preferred stock.
+Upon the Company’s IPO, the Company recognized $2.8 billion of stock-based compensation expense for awards with a liquidity-event performance-based vesting condition satisfied at IPO. Shares were then issued related to the vesting of the restricted stock units ("RSUs") with such performance-based vesting conditions. The Company withheld 24.2 million shares of common stock and based on the IPO price of $68.00 per share to satisfy tax withholding and remittance of approximately $1.6 billion.
+Under the Company’s restated certificate of incorporation, which became effective immediately prior to the completion of the IPO, the Company is authorized to issue 4,736,000,000 shares of common stock, including 2,000,000,000 shares of Class A common stock, 710,000,000 shares of Class B common stock, 2,000,000,000 shares of Class C common stock and 26,000,000 shares of Class H common stock. As a result, following the completion of the IPO, the Company has four classes of authorized common stock: Class A, Class B, Class C, and Class H common stock, of which Class A and Class B had shares outstanding as of December 31, 2020. In November 2020, 9,200,000 shares of Class H common stock were issued to the Company’s wholly-owned Host Endowment Fund subsidiary and held as treasury stock.
+COVID-19 Pandemic
+In December 2019, a novel strain of coronavirus disease (“COVID-19”) was reported and in March 2020, the World Health Organization characterized COVID-19 as a global pandemic. The COVID-19 pandemic has forced international, federal, state, and local governments to enforce prohibitions of non-essential activities.
+The Company first saw the impact of COVID-19 in China in the last week of January 2020, which when contained to China, had a minor impact on the entire business. The outbreak spread throughout Asia, and then through Europe, North America, and the rest of the world by the end of the first quarter of 2020. Since then, the Company has experienced a significant decline in revenue resulting from a decrease in bookings and an increase in cancellations. The extent and duration of the adverse impact of COVID-19 on the Company over the longer term remain uncertain and dependent on future developments that cannot be accurately predicted at this time, such as the severity and transmission rate of COVID-19, the extent and effectiveness of containment actions taken, including mobility restrictions, the timing, availability, and effectiveness of vaccines, and the impact of these and other factors on travel behavior in general and on the Company’s business.
+As a result, the Company took a number of actions in 2020 in response to the significant decrease in bookings and the adverse impacts on its revenue, operating results, and financial condition as described in Note 11,
+Debt,
+Note 13,
+Commitments and Contingencies,
+and Note 19,
+Restructuring
+.
+89
+Table of Contents
+Airbnb, Inc.
+Notes to Consolidated Financial Statements
+As the impact of COVID-19 continues to evolve, estimates and assumptions about future events and their effects cannot be determined with certainty and therefore require increased judgment. These estimates and assumptions may change in future periods and will be recognized in the consolidated financial statements as new events occur and additional information becomes known. To the extent the Company’s actual results differ materially from those estimates and assumptions, the Company’s future financial statements could be affected.
+Principles of Consolidation
+The accompanying consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries and variable interest entities (“VIE”) in which the Company is the primary beneficiary in accordance with consolidation accounting guidance. All intercompany transactions have been eliminated in consolidation.
+The Company determines, at the inception of each arrangement, whether an entity in which it has made an investment or in which it has other variable interest in is considered a VIE. The Company consolidates a VIE when it is deemed to be the primary beneficiary. The primary beneficiary of a VIE is the party that meets both of the following criteria: (i) has the power to direct the activities that most significantly affect the economic performance of the VIE; and (ii) has the obligation to absorb losses or the right to receive benefits that in either case could potentially be significant to the VIE. Periodically, the Company determines whether any changes in its interest or relationship with the entity impact the determination of whether the entity is still a VIE and, if so, whether the Company is the primary beneficiary. If the Company is not deemed to be the primary beneficiary in a VIE, the Company accounts for the investment or other variable interest in a VIE in accordance with applicable U.S. GAAP. As of December 31, 2019 and 2020, the Company’s consolidated VIEs were not material to the consolidated financial statements.
+Use of Estimates
+The preparation of the Company’s consolidated financial statements in conformity with U.S. GAAP requires management to make certain estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. The Company regularly evaluates its estimates, including those related to bad debt reserves, fair value of investments, useful lives of long-lived assets and intangible assets, valuation of acquired goodwill and intangible assets from acquisitions, contingent liabilities, insurance reserves, revenue recognition, valuation of common stock, stock-based compensation, and income and non-income taxes, among others. Actual results could differ materially from these estimates.
+Segment Information
+Operating segments are defined as components of an entity for which discrete financial information is available and is regularly reviewed by the Chief Operating Decision Maker (“CODM”) in making decisions regarding resource allocation and performance assessment. The Company’s CODM is its Chief Executive Officer. The Company has determined it has one operating and reportable segment as the CODM reviews financial information presented on a consolidated basis for purposes of allocating resources and evaluating financial performance.
