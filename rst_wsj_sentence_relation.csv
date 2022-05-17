@@ -1,0 +1,110 @@
+label,sentence1,sentence2
+Cause-Result,Richard W. Lock,retired vice president and treasurer of Owens-Illinois Inc.,
+Cause-Result,was named a director of this transportation industry supplier,increasing its board to six members.
+elaboration-additional,Retired Adm. William J. Crowe,former chairman of the Joint Chiefs of Staff,
+elboration-additional,and Robert P. Luciano,chairman and chief executive officer of Schering-Plough Corp.,
+elaboration-additional,were elected directors of this securities firm,he board expanded to seats.
+background,Malcolm S. Todt was named vice president and senior officer in charge of equipment leasing to municipalities, a new effort of this bond insurer.,Mr. Todt had been vice president and treasurer of Insilco Corp.
+attribution,Brush Wellman Inc. said,its board increased the number of shares of common stock
+elaboration-object-attribute-e,to be purchased under a previously authorized program,to 3.9 million from 2.9 million.
+elaboration-additional,its board increased the number of shares of common stock,The maker of engineered materials has acquired more than 2.7 million shares under the program.
+attribution,Telxon Corp. said,its vice president for manufacturing resigned
+attribution,its vice president for manufacturing resigned,The maker of hand-held computers and computer systems said
+purpose,the personnel changes were needed,to improve the efficiency of its manufacturing operation.                               reason                         elaboration-additional
+attribution,to improve the efficiency of its manufacturing operation.The company said
+elaboration-object-attribute-e,it hasn't named a successor to Ronald Bufton, the vice president
+elaboration-object-attribute-e,who resigned,the vice president.
+List,and its Houston work force has been trimmed by 33 people, or about 12%.
+consequence,or about 12%,Its Houston work force now totals  0.
+attribution,The maker of hand-held computers and computer systems said,the personnel changes were needed
+purpose,the personnel changes were needed,to improve the efficiency of its manufacturing operation.
+purpose,The company said, it hasn't named a successor to Ronald Bufton the vice president
+elaboration-object-attribute-e,it hasn't named a successor to Ronald Bufton the vice president who resigned.
+consequence-s,it hasn't named a successor to Ronald Bufton the vice president who resigned,who resigned.                                           reason                         elaboration-additional
+consequence,the vice presidentwho resigned,Its Houston work force now totals 0
+List,Nelson Holdings International Ltd. shareholders approved a 1-for-1 consolidation of the company's common stock at a special meeting.,At the same time, shareholders approved the adoption of a rights plan and a super-majority voting approval requirement.
+elaboration-object-attribute-e,the entertainment company,which has film and television operations in Beverly Hills, Calif.
+Same-Unit,which has film and television operations in Beverly Hills Calif.,will have about 4.1 million shares outstanding.
+elaboration-additional,Under the rights plan, holders will have one right for each common share held,with each right entitling the purchase of one common share for  400 Canadian dollars.
+manner,if a person or group acquires 4% or more of the common shares outstanding,without making an offer to all shareholders.
+elaboration-object-attribute-e,Costa Rica reached an agreement with its creditor banks,that is expected to cut that government's $1.8 billion in bank debt by as much as 45%.
+Temporal-Same-Time,The agreement was announced by Costa Rican President Oscar Arias Friday,as President Bush and other leaders from the Western Hemisphere gathered in the Central American nation for a celebration of democracy.
+Contrast,Costa Rica had been negotiating with the U.S. and other banks for three years,but the debt plan was rushed to completion
+purpose,in order to be announced at the meeting.,The government had fallen $ 40 million behind in interest payments.
+attribution,The government had fallen $ 40 million behind in interest payments.,noting that it will when implemented,
+condition,noting that it will when implemented,provide significant reduction in the level of debt and debt service owed by Costa Rica.
+elaboration-object-attribute,provide significant reduction in the level of debt and debt service owed by Costa Rica,Under the plan, Costa Rica will buy back roughly  40% of its bank debt
+circumstance,The government had fallen $ 40 million behind in interest payments,Treasury Secretary Nicholas Brady called the agreement an important step forward in the strengthened debt strategy
+elaboration-object-attribute,outstanding at a deeply discounted price,according to officials involved in the agreement.
+List,The remainder of the debt will be exchanged for new Costa Rican bonds with a 6 1/4% interest rate.,The International Monetary Fund and the World Bank are expected to provide approximately $50 million
+purpose,The International Monetary Fund and the World Bank are expected to provide approximately $50 million,to help support the deal
+attribution,Treasury officials say,the Costa Rican agreement demonstrates
+interpretation-s,that the Brady debt plan can benefit small debtor countries as well as big debtors, such as Mexico.
+attribution,Lion Nathan Ltd. a New Zealand brewing and retail concern said Friday,that Bond Corp. Holdings Ltd. is committed to a transaction
+means,that Bond Corp. Holdings Ltd. is committed to a transaction,whereby Lion Nathan would acquire  23% of Bond's Australian brewing assets.
+attribution,Lion Nathan issued a statement saying,it is applying to Australia's National Companies & Securities Commission, the nation's corporate watchdog agency
+elaboration-object-attribute-e,an Australian brewer last Thursday was given approval,to acquire an option for up to  % of Bell Resources Ltd. a unit of Bond Corp. 8
+purpose,Bond Corp. a brewing, property media and resources company is selling many of its assets to reduce its debts.
+restatement-e,Bell Resources is acquiring Bond's brewing businesses for 2.5 billion Australian dollars,(US$1.9 billion).
+restatement-e,S.A. brewing would make a takeover offer for all of Bell Resources,if it exercises the option
+condition,S.A. brewing would make a takeover offer for all of Bell Resources,if it exercises the option
+means,that Bond Corp. Holdings Ltd. is committed to a transaction,whereby Lion Nathan would acquire  23% of Bond's Australian brewing assets.
+attribution,Lion Nathan issued a statement saying,it is applying to Australia's National Companies & Securities Commission the nation's corporate watchdog agency, for a modification to takeover regulations similar to that
+elaboration-object-attribute-e, it is applying to Australia's National Companies & Securities Commission,the nation's corporate watchdog agency, for a modification to takeover regulations similar to that
+List,The Justice Department has revised certain internal guidelines,and clarified others in a move
+elaboration-object-attribute-e,and clarified others in a move,that could restrict the use of criminal racketeering charges against white-collar defendants.
+attribution,charged under the racketeering law,a senior department official said
+attribution,the government may subsequently be able to seize after a conviction,Mr. Runkel said.
+Contrast,if the offense deals with one part of the business,you don't attempt to seize the whole business
+elaboration-additional-e,Prospect Group Inc.,whose recent hostile tender offer for Recognition Equipment Inc. failed for lack of financing,
+List,Thomas L. Ringer resigned as chairman, chief executive and a director,while Israel Sheinberg resigned as a director.
+elaboration-object-attribute-e,Blue-chip advertisers have plenty of complaints about the magazines,they advertise in,
+elaboration-general-specific-e,Criticism from such big advertisers as Estee Lauder Inc.,Colgate-Palmolive Co. and Seagram Co. put a damper on the euphoria at the American Magazine Conference here.
+antithesis,ranging from inadequate consumer research to ad clutter and a seemingly unchecked proliferation of special interest magazines.,The conference opened Monday with glowing reports about consumer magazines' growth in circulation and advertising revenue in the past year.
+attribution,Magazines are not providing us in-depth information on circulation,said Edgar Bronfman Jr., president and chief operating officer of Seagram, in a panel discussion.
+purpose,advertisers are frequently asked to take advertising positions in the back of her magazine to relieve ad clutter.,But advertisers wouldn't think of it
+attribution,Bernard Leser, president of Conde Nast added:, Our research shows
+attribution,we sell more of our heavier issues,because readers believe
+circumstance,because readers believe,they are getting more for what they pay for
+attribution,The Bush administration said,it is submitting a comprehensive proposal
+elaboration-object-attribute-e,it is submitting a comprehensive proposal,or overhauling agricultural trade
+attribution,said,she is confident,it will gain considerable support from the U.S.'s trading partners.
+elaboration-object-attribute-e,Mr. Yeutter,seeking to allay European objections to an earlier U.S. plan
+said,Mr. Yeutter,attribution
+List,the new U.S. proposal wouldn't put farmers out of business,but would only encourage them to grow
+explanation-argumentative,The dollar finished softer yesterday,tilted lower by continued concern about the stock market.
+attribution,We're trading with a very wary eye on Wall Street,said Trevor Woodland chief corporate trader at Harris Trust & Savings Bank in New York.
+elaboration-object-attribute-e,No one is willing to place a firm bet,that the stock market won't take another tumultuous ride.
+antithesis,News of the major earthquake in California Tuesday triggered a round of dollar sales in early Asian trade,but most foreign-exchange dealers said
+attribution,but most foreign-exchange dealers said,they expect the impact of the quake on financial markets to be short-lived.
+concession,Despite the dollar's lackluster performance,some foreign-exchange traders maintain
+attribution,that the U.S. unit remains relatively well bid.,
+attribution,Harris Trust's Mr. Woodland noted,that the unit continues to show resilience in the face
+elaboration-object-attribute-e,resilience in the face of a barrage of headline negatives in recent weeks including rate increases in Europe and Japan, aggressive central bank intervention, a  0-point plunge in New York stock prices an unexpectedly poor U.S. trade report and action by the Federal Reserve to nudge U.S. rates lower.
+temporal-same-time,While Mr. Woodland doesn't predict a significant climb for the U.S. unit in light of recent moves in interest rates around the world,he noted    attribution    that its downside potential is surprisingly and        -- for dollar bulls --   elaboration-additional-e     impressively limited.
+attribution,he noted,that its downside potential is surprisingly and  -- for dollar bulls --
+elaboration-additional-e,that its downside potential is surprisingly and  -- for dollar bulls --,impressively limited.
+Comparison,In late New York trading yesterday, the dollar was quoted at 1.,marks, down from 1.
+Comparison,marks late Tuesday and at  100000 yen, down from  2000000  yen late Tuesday.
+Comparison,Sterling was quoted at $1000000, up from $100000 late Tuesday.
+In Tokyo Thursday, the U.S. currency opened for trading at  0.  yen, down from Wednesday's Tokyo close of  2000000  yen.
+Comparison,Since Friday's dive in stock market prices, the Fed has injected reserves into the banking system in an effort to calm the markets,and avert a repeat of   Japans's stock market debacle.
+attribution,Some analysts note,that after last week's stock market tailspin and Tuesday's California earthquake
+attributionit's hard to gauge,where the central bank wants the key federal funds rate.
+attribution,They say,that the earthquake,
+antithesis,INSURERS ARE FACING billions of dollars in damage claims from the California quake.,But most businesses in the Bay area
+elaboration-part-whole-e,But most businesses in the Bay area,including Silicon Valley
+elaboration-part-whole-e,But most businesses in the Bay area,weren't greatly affected.
+List,Computer and software companies in the region are expecting virtually no long-term disruption in shipments.
+object-attribute-e,Also investors quickly singled out stocks of companies,expected to profit or suffer from the disaster.
+elaboration-additional-e,Leveraged buy-outs may be curbed by two rules in pending congressional legislation.,The provisions in deficit-reduction bills recently passed by the House and Senate
+means,Mutual-fund czar John M. Templeton has put his money where his moniker is,pouring $1.4 million into one of his own funds the Templeton Value Fund.
+elaboration-object-attribute-e,Mr. Templeton owns shares in several of the funds that his firm manages,but only in three of the available to U.S. investors,
+Same-Unit,but only in three of the available to U.S. investors,according to filings with the Securities and Exchange Commission.
+attribution,Those are Templeton Global Income, Templeton Emerging Markets and now the Value Fund.
+Question-Answer,Why did he add the Value Fund to the list?,Because he's very bullish on the emerging growth stocks
+elaboration-object-attribute-e,that make up the fund's portfolio,Mr. Templeton said from his Bahamas hideaway.
+List,Emerging growth stocks haven't been popular in America for years,they've been neglected
+List,they've been neglected,he said,
+attribution,he said,and their prices often trail the market as a whole.
+concession,Mr. Templeton's 7 0-share purchase in the closed-end fund came before the U.S. stock market's plunge last Friday,but still proved slightly profitable.
