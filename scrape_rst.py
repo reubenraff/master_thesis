@@ -12,5 +12,5 @@ def scrape_rst_files(file: Any) --> dict:
         data_dict = {}
         for relation_tag in relation_tags:
             if len(relation_tag.attrs) == 3:
-                data_dict[relation_tag["relname"]] = relation_tag.text
+                data_dict[relation_tag.relname] = relation_tag.text
     return(data_dict)
