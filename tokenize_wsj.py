@@ -18,12 +18,3 @@ with open("wsj_tsv.tsv") as tsvfile:
     tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
     input_ids = tokenizer(all_pairs[1], max_length=50, padding="max_length", truncation=True, return_tensors="tf")
     print("List of pairs", input_ids)
-""" #TODO """
-
-"""
-
-
-input_ids = tokenizer([["hey hello there", "what is going on"], ["peter is in the", "what is going on"]], max_length=20, padding="max_length", truncation=True, return_tensors="tf")
-
-print("List of pairs", input_ids)
-"""
