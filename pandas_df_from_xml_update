@@ -1,0 +1,85 @@
+import lxml
+import xmltodict
+import datasets
+import pandas as pd
+from datasets import Dataset
+
+# Open the file and read the contents
+with open('pubmed_1_copy.xml', 'r', encoding='utf-8') as file:
+    my_xml = file.read()
+
+# Use xmltodict to parse and convert
+# the XML document
+xml_dict = xmltodict.parse(my_xml)
+
+
+df = pd.DataFrame(xml_dict, columns=xml_dict.keys())
+
+order_dict = df["rst"].iloc[0]
+segments_list_of_dicts = order_dict["segment"]
+xml_dataframe = pd.DataFrame.from_dict(segments_list_of_dicts, orient='columns')
+
+#selected_rows is a pandas dataframe
+selected_rows = xml_dataframe[~xml_dataframe.isnull().any(axis=1)]
+
+
+
+
+get_cols = selected_rows.get(["@parent","@id","@relname","#text"])
+
+
+selected_rows.groupby(by=["@parent","#text"])
+
+
+
+
+ordered_sequences = selected_rows[selected_rows["@parent"] < selected_rows["@id"]]
+
+
+
+
+ord_text= selected_rows[selected_rows["@parent"] < selected_rows["@id"]]
+
+id_greater = ord_text[ord_text["@id"] > ord_text["@parent"]]
+
+rels_and_text= id_greater[["@id","@parent","@relname","#text"]]
+
+rels_and_text.pivot(index="@id",columns="@parent",values="#text")
+
+sorted_rels = rels_and_text.sort_values("@parent")
+
+ids = sorted_rels[sorted_rels["@parent"] == "6"] #this is a dataframe
+
+current = sorted_rels[sorted_rels["@parent"] == "6"] #["#text"]
+
+parent_id_connect = sorted_rels.loc[sorted_rels['@parent'] == "6", '@id']
+
+#print(parent_id_connect.values[0])
+
+sorted_rels.loc[sorted_rels['@parent'] == "6", '#text']
+
+row_id_from_parent = sorted_rels.loc[sorted_rels["@id"] == parent_id_connect.values[0]]
+
+row_id_parent_text = row_id_from_parent["#text"]
+
+
+
+
+
+
+
+#print(type(current["@id"]))
+
+"""
+# Using DataFrame.query() method extract column values.
+df2=df.query('Fee == 25000')['Courses']
+print(df2)
+"""
+
+
+=
+
+dataset = Dataset.from_pandas(selected_rows,split="train")
+
+
+
