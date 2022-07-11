@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >With that, I'll hand the call over to Anthony.</segment>
+		<segment id="2" parent="3" relname="result">Anthony Mifsud Thanks, Steve.</segment>
+		<segment id="3" parent="4" relname="preparation">FFO per share of $0.58 exceeded the high end of our guidance by $0.01 due to stronger-than-expected same-property results and the timing of development fees.</segment>
+		<segment id="4" parent="5" relname="preparation">We continue to expect same property cash NOI to be flat to down 2% for the year.</segment>
+		<segment id="5" >Defense/IT should grow between 50 and 100 basis points.</segment>
+		<segment id="6" parent="7" relname="circumstance">And our Regional Office segment, which now represents only 10% of our annualized rental revenues will decline 20% to 25%, reflecting the Transamerica vacancy that occurred on January 1, and the roll down in rent associated with the 15-year CareFirst renewal executed in December.</segment>
+		<segment id="7" parent="8" relname="antithesis">Same-property occupancy of 92.2% was in line with our guidance range.</segment>
+		<segment id="8" >and we expect same-property occupancy to be between 91% and 93% at year-end.</segment>
+		<segment id="9" parent="10" relname="result">NOI from development placed in service will continue to drive growth.</segment>
+		<segment id="10" parent="11" relname="result">Developments recently placed into service contributed $1 million in the first quarter, and we expect a total cash NOI contribution for the year of $15 million to $17 million, all of which is contractual.</segment>
+		<segment id="11" parent="12" relname="preparation">In terms of capital, the sale of DC-6 provided $223 million of proceeds, which further strengthened our balance sheet.</segment>
+		<segment id="12" >Based on projected development investments, we expect to recycle out of existing assets toward the end of the year to maintain our conservative leverage.</segment>
+		<segment id="13" parent="14" relname="circumstance">As Steve touched on, between September 2020 and November 2021, we issued $1.8 billion of new senior notes with a weighted average term of 8.9 years and retired debt carrying a weighted average term of just 2.1 years.</segment>
+		<segment id="14" >As a result of this proactive refinancing, we increased the weighted average maturity of our consolidated debt portfolio from 3 years to 7 years today and lowered our exposure to variable rate debt from over 11% to less than 3%.</segment>
+		<segment id="15" parent="16" relname="justify">Lastly, as detailed on Pages 12 and 13 of our slide deck, we are narrowing our full year range of FFO per share to reflect first quarter results.</segment>
+		<segment id="16" >The $2.34 midpoint continues to imply 2.2% growth over 2021 FFO per share results as adjusted for comparability and reflects about 2 percentage points of dilution from the January sale of DC-6.</segment>
+		<segment id="17" >And now I'll hand the call over to Todd.</segment>
+		<segment id="18" >Todd Hartman Thank you, Anthony.</segment>
+		<segment id="19" parent="20" relname="result">Our future results will benefit from the strong leasing volumes achieved in the first quarter.</segment>
+		<segment id="20" >Total leasing volume was 871,000 square feet or nearly 150% of the first quarter 5-year average.</segment>
+	</body>
+</rst>

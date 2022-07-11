@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">they were actively seeking to find the case.</segment>
+		<segment id="2" >So they were screening daily all the hospitals</segment>
+		<segment id="3" parent="2" relname="condition">and then were screening daily their system to see if there is any myocarditis like symptoms reported,</segment>
+		<segment id="4" parent="3" relname="elaboration">and then they will try to see if there was vaccination before.</segment>
+		<segment id="5" parent="4" relname="circumstance">So they were doing that activity.</segment>
+		<segment id="6" parent="7" relname="circumstance">And it became extremely, extremely rare when they did that.</segment>
+		<segment id="7" >I think it was 1 in 1 million or something, so very, very small number.</segment>
+		<segment id="8" parent="7" relname="concession">Don't quote me on that 1 in 1 million, but it was very, very, very small number.</segment>
+		<segment id="9" parent="8" relname="elaboration">So really we are monitoring.</segment>
+		<segment id="10" parent="11" relname="circumstance">I don't think that we have developed a good understanding why</segment>
+		<segment id="11" >that has happened to your question,</segment>
+		<segment id="12" parent="11" relname="elaboration">but I don't think there's any more</segment>
+		<segment id="13" parent="14" relname="circumstance">-- Unidentified Analyst So is that going to be a problem as you think about a flu vaccine</segment>
+		<segment id="14" parent="18" relname="condition">or an RSV vaccine just because there,</segment>
+		<segment id="15" parent="18" relname="condition">there might be alternative.</segment>
+		<segment id="16" parent="17" relname="solutionhood">They are sometimes alternative approaches using protein-based vaccines.</segment>
+		<segment id="17" >How do we think about the argument there?</segment>
+		<group id="18" type="span" />
+	</body>
+</rst>

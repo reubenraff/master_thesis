@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >How do you think,</segment>
+		<segment id="2" parent="3" relname="condition">how does Pfizer think about the rationale why we should all be taking our vaccines reasonably frequently?</segment>
+		<segment id="3" >Albert Bourla I don't say that we should all take our vaccines on a yearly basis.</segment>
+		<segment id="4" parent="3" relname="elaboration">What I said, it is likely there is a need to take it in less than a year right now.</segment>
+		<segment id="5" parent="6" relname="preparation">And what we need to achieve with technologies to make vaccines that they will last longer</segment>
+		<segment id="6" >and the idea will be at least a year.</segment>
+		<segment id="7" parent="8" relname="circumstance">Now, if I take a step from how to think about the revenues and how to think about</segment>
+		<segment id="8" >-- it's not then easy of course modeling because we don't know, right?</segment>
+		<segment id="9" parent="10" relname="concession">And some could be on the optimistic side,</segment>
+		<segment id="10" parent="22" relname="span">some will be on the pessimistic side of the pandemic and as a result,</segment>
+		<segment id="11" parent="22" relname="evaluation">revenues will be very [indiscernible].</segment>
+		<segment id="12" parent="13" relname="preparation">How I think about it is that there are a few things that I think there are very likely to happen.</segment>
+		<segment id="13" parent="23" relname="preparation">What is very likely to happen,</segment>
+		<segment id="14" parent="23" relname="evaluation">it is that the virus will continue to be around.</segment>
+		<segment id="15" parent="16" relname="condition">And I think what is likely to happen, it is that the virus will mutate.</segment>
+		<segment id="16" parent="24" relname="span">Now, the second thing it is that I think will happen it is that the social distancing,</segment>
+		<segment id="17" parent="24" relname="circumstance">which was a major public health measure that was used against this pandemic will relax a lot.</segment>
+		<segment id="18" parent="19" relname="solutionhood">That is happening partially because of the tools that we have.</segment>
+		<segment id="19" >We can reduce deaths and hospitalizations.</segment>
+		<segment id="20" parent="21" relname="condition">But the main reason is because people they are really ready to accept lower bar,</segment>
+		<segment id="21" parent="25" relname="span">maybe some people can die, if we can have our lives back.</segment>
+		<group id="22" type="span" />
+		<group id="23" type="span" />
+		<group id="24" type="span" />
+		<group id="25" type="span" parent="19" relname="concession"/>
+	</body>
+</rst>

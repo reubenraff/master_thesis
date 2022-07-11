@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">What I see is that a likely scenario,</segment>
+		<segment id="2" parent="21" relname="span">it is that we will have repeated waves of COVID with higher numbers of people that will be getting sick.</segment>
+		<segment id="3" parent="21" relname="result">The more we take distance and the more the compliance of the vaccines is down,</segment>
+		<segment id="4" parent="5" relname="result">the more the severity of the wave,</segment>
+		<segment id="5" parent="22" relname="span">how we will experience it.</segment>
+		<segment id="6" parent="7" relname="circumstance">So what I see from our perspective,</segment>
+		<segment id="7" parent="23" relname="circumstance">it is, first of all,</segment>
+		<segment id="8" >we are preparing for a high level of usage of treatment.</segment>
+		<segment id="9" parent="8" relname="solutionhood">I think treatments will become the main tool now to deal with this situation</segment>
+		<segment id="10" parent="9" relname="preparation">and we are preparing with vaccines that will enforce</segment>
+		<segment id="11" parent="24" relname="preparation">or will, let's say, be as close as possible to consumers' preference so</segment>
+		<segment id="12" parent="11" relname="circumstance">that they can maintain the compliance,</segment>
+		<segment id="13" parent="12" relname="solutionhood">and that it is combinations and longer duration of COVID vaccines.</segment>
+		<segment id="14" parent="15" relname="solutionhood">These are two efforts that we have right now.</segment>
+		<segment id="15" parent="16" relname="solutionhood">Treatments, enough manufacturing capacity,</segment>
+		<segment id="16" parent="25" relname="circumstance">a lot of commercial and transit and then vaccines,</segment>
+		<segment id="17" parent="25" relname="solutionhood">its combinations and longer.</segment>
+		<segment id="18" parent="19" relname="concession">Unidentified Analyst So the one thing you did say that struck me as something we probably should push on is this notion</segment>
+		<segment id="19" parent="26" relname="circumstance">that the vaccine does not last.</segment>
+		<segment id="20" parent="26" relname="evaluation">The question is not whether people get re-infected.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" parent="3" relname="result"/>
+		<group id="23" type="span" parent="8" relname="preparation"/>
+		<group id="24" type="span" parent="10" relname="preparation"/>
+		<group id="25" type="span" />
+		<group id="26" type="span" />
+	</body>
+</rst>

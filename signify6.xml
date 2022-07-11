@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">Sure, the immune system naturally turns off the level of antibodies once the acute phase of infection is down.</segment>
+		<segment id="2" parent="30" relname="span">This is a nasal transmission primarily.</segment>
+		<segment id="3" parent="31" relname="span">You will get some presence of the virus,</segment>
+		<segment id="4" parent="3" relname="condition">you might get mildly ill.</segment>
+		<segment id="5" parent="6" relname="antithesis">But do we have good evidence that suggests that within a year of being vaccinated,</segment>
+		<segment id="6" >you can actually -- material percentage of the population --</segment>
+		<segment id="7" parent="6" relname="concession">we're not talking everything will compromise,</segment>
+		<segment id="8" parent="7" relname="circumstance">material percent of the population will get severely sick,</segment>
+		<segment id="9" parent="8" relname="elaboration">will get to the same level hospitalization over the number of people infected</segment>
+		<segment id="10" parent="9" relname="circumstance">or something of that nature,</segment>
+		<segment id="11" parent="10" relname="evidence">because that's -- when I talked to immunologists,</segment>
+		<segment id="12" parent="11" relname="elaboration">at least early on, that was not the impression.</segment>
+		<segment id="13" parent="14" relname="evidence">Albert Bourla Yes.</segment>
+		<segment id="14" parent="32" relname="span">We're having from your hometown, from Israel,</segment>
+		<segment id="15" parent="32" relname="elaboration">and where we did a lot of real world data</segment>
+		<segment id="16" parent="15" relname="result">and we knew that the third dose was needed</segment>
+		<segment id="17" parent="33" relname="span">because we are having increased not only in the infections,</segment>
+		<segment id="18" parent="17" relname="condition">now I'm talking about Delta environment,</segment>
+		<segment id="19" parent="20" relname="circumstance">not only the infections,</segment>
+		<segment id="20" parent="34" relname="span">but we have this increase in deaths and hospitalization.</segment>
+		<segment id="21" parent="34" relname="solutionhood">The third dose reversed the situation.</segment>
+		<segment id="22" parent="23" relname="solutionhood">And both deaths and hospitalizations</segment>
+		<segment id="23" parent="35" relname="span">and infections were prevented way better.</segment>
+		<segment id="24" parent="35" relname="result">Then we did see the first signs of going down with the third dose</segment>
+		<segment id="25" parent="24" relname="motivation">and this is when Israel started recommending the floor,</segment>
+		<segment id="26" >there is a reason.</segment>
+		<segment id="27" parent="28" relname="circumstance">But then suddenly also things became complicated</segment>
+		<segment id="28" parent="29" relname="concession">because Omicron came.</segment>
+		<segment id="29" parent="36" relname="span">So now basically we zero that counter, right, with Omicron.</segment>
+		<group id="30" type="span" />
+		<group id="31" type="span" parent="30" relname="circumstance"/>
+		<group id="32" type="span" />
+		<group id="33" type="span" parent="16" relname="elaboration"/>
+		<group id="34" type="span" />
+		<group id="35" type="span" />
+		<group id="36" type="span" parent="25" relname="circumstance"/>
+	</body>
+</rst>

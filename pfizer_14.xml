@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="evaluation">Albert Bourla I think everybody will see the safety profile and the efficacy profile and they will make, let's say, their decision.</segment>
+		<segment id="2" >Unidentified Analyst But that would argue for a full blown development process that is biotechnologies approved for COVID,</segment>
+		<segment id="3" parent="4" relname="circumstance">it seems that here you will have like a de novo full blown long-term safety monitoring on a very large population before approval will take place.</segment>
+		<segment id="4" >There will not be a shortened process to get those vaccines into the market against influenza, for example?</segment>
+		<segment id="5" parent="6" relname="elaboration">Albert Bourla I think FDA has very clearly characterized and EMA what are the conditions,</segment>
+		<segment id="6" parent="21" relname="span">and they are not literally different for mRNA to get the flu vaccine and what is to get the combination vaccine.</segment>
+		<segment id="7" parent="8" relname="circumstance">Unidentified Analyst So essentially, the argument has been to some extent that there's small changes in the RNA sequence</segment>
+		<segment id="8" parent="9" relname="elaboration">that might take place,</segment>
+		<segment id="9" parent="22" relname="elaboration">because RNA is all the same,</segment>
+		<segment id="10" parent="22" relname="solutionhood">you could rely on the safety of PAXLOVID to get influenza vaccine approved.</segment>
+		<segment id="11" parent="10" relname="concession">But it seems that you will still need to do a full blown program.</segment>
+		<segment id="12" parent="13" relname="background">Albert Bourla Yes, but keep in mind that for flu,</segment>
+		<segment id="13" >always there is for every technology that you can do immunogenicity in the beginning</segment>
+		<segment id="14" parent="15" relname="preparation">and then you can do -- for advanced approval,</segment>
+		<segment id="15" parent="16" relname="elaboration">and then you can have,</segment>
+		<segment id="16" parent="17" relname="circumstance">let's say, follow up to prove the efficacy,</segment>
+		<segment id="17" parent="23" relname="circumstance">which if we do, this is what we plan to do.</segment>
+		<segment id="18" parent="19" relname="preparation">So still we plan to do the efficacy studies,</segment>
+		<segment id="19" parent="24" relname="evaluation">but we don't plan to wait until they are finished to get approval for flu.</segment>
+		<segment id="20" parent="24" relname="evaluation">Unidentified Analyst So the argument is you'll be able to get approval based on immunogenicity alone without showing --?</segment>
+		<group id="21" type="span" parent="4" relname="evaluation"/>
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="13" relname="preparation"/>
+		<group id="24" type="span" />
+	</body>
+</rst>

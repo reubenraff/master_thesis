@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Do you see that similar dynamic happening in your neck of the woods?</segment>
+		<segment id="2" >Or is it the reverse that people kind of hesitate to work directly with the government because there's so much</segment>
+		<segment id="3" >that goes into having to do that?</segment>
+		<segment id="4" parent="2" relname="circumstance">You guys have your clearances and all that sort of stuff.</segment>
+		<segment id="5" parent="4" relname="condition">So is it -- are you seeing more or less in the way of competition for your specific niche in the current environment?</segment>
+		<segment id="6" parent="5" relname="circumstance">Steve Budorick So we haven't seen a change in recent years.</segment>
+		<segment id="7" parent="8" relname="evaluation">Overall, I would say I thought there was more competition in Maryland from 2012 to 2014 or '15 than we experienced today as there were some projects that were started with a desire to compete head-to-head with some of our better assets.</segment>
+		<segment id="8" parent="24" relname="span">They didn't succeed and they no longer exist, but we don't see elevating competition.</segment>
+		<segment id="9" parent="24" relname="antithesis">And remember, one of the unique advantages our franchise has, not only the clearances and the capabilities,</segment>
+		<segment id="10" parent="9" relname="background">the 25-year history of working on secure assets for the government,</segment>
+		<segment id="11" parent="10" relname="circumstance">we have advantaged land positions that tend to dominate when competitions occur.</segment>
+		<segment id="12" parent="11" relname="evaluation">So I think our competitive posture is as good as it's ever been.</segment>
+		<segment id="13" >Operator Our next question comes from Tom Catherwood of BTIG.</segment>
+		<segment id="14" parent="15" relname="concession">Tom Catherwood So Todd, I want to just kind of loop back on your comments on 2100 L Street just with the demand improving there.</segment>
+		<segment id="15" >Commentary last quarter was, let's say, muted at best to somewhat negative on the D.C. market.</segment>
+		<segment id="16" parent="15" relname="elaboration">Can you talk a bit about the improvement</segment>
+		<segment id="17" parent="16" relname="justify">that you saw in the first quarter and kind of what's driving</segment>
+		<segment id="18" parent="17" relname="circumstance">that uptick in demand and maybe what specific tenant sectors?</segment>
+		<segment id="19" >Todd Hartman Sure.</segment>
+		<segment id="20" parent="21" relname="circumstance">Well, the activity has increased dramatically over the quarter as D.C. overall has emerged from the pandemic</segment>
+		<segment id="21" parent="25" relname="span">and it's more and more in the rearview mirror.</segment>
+		<segment id="22" parent="25" relname="circumstance">Keep in mind, 2100 L is a trophy asset, well located in the western edge of the CBD,</segment>
+		<segment id="23" parent="22" relname="elaboration">which is one of the more popular submarkets in D.C.</segment>
+		<group id="24" type="span" />
+		<group id="25" type="span" />
+	</body>
+</rst>

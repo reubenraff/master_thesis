@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="background">Our 64% tenant retention ratio reflects Transamerica's 141,000 square foot non-renewal at 100 Light Street</segment>
+		<segment id="2" >nd was included in our full year retention guidance of 70% to 75%.</segment>
+		<segment id="3" parent="4" relname="circumstance">Excluding Transamerica, we renewed 78% of expiring leases in the quarter,</segment>
+		<segment id="4" >and we remain on track to achieve our retention guidance for the year.</segment>
+		<segment id="5" parent="6" relname="preparation">Cash rents on renewals rolled down 5.7%, which was anticipated</segment>
+		<segment id="6" >and is included in our full year guidance for cash rent spreads to roll down 1% to 3%.</segment>
+		<segment id="7" parent="8" relname="antithesis">The 157,000 square feet of vacancy leasing we completed was very strong.</segment>
+		<segment id="8" parent="9" relname="condition">This result was 60% higher than the trailing 5-year average for first quarter</segment>
+		<segment id="9" parent="10" relname="concession">and represents the third consecutive quarter that we have exceeded our 5-year average.</segment>
+		<segment id="10" >96% of the quarter's vacancy leasing was in Defense/IT locations.</segment>
+		<segment id="11" parent="12" relname="condition">Additionally, nearly 75% of this leased space will have secured compartmentalized information facilities,</segment>
+		<segment id="12" parent="13" relname="circumstance">creating high barriers to exit for the tenants</segment>
+		<segment id="13" >who will be investing an additional 2.5 to 3x the TI allowances we provide to complete their build-outs.</segment>
+		<segment id="14" parent="15" relname="result">Development leasing was strong as well.</segment>
+		<segment id="15" parent="16" relname="preparation">We executed a 265,000 square foot build-to-suit for a cloud computing customer in Northern Virginia.</segment>
+		<segment id="16" parent="17" relname="background">We are tracking 1.2 million square feet of potential build-to-suit</segment>
+		<segment id="17" parent="18" relname="preparation">and major pre-leased demand in our development leasing pipeline,</segment>
+		<segment id="18" >which supports our objective of leasing 700,000 square feet in development this year.</segment>
+		<segment id="19" parent="20" relname="justify">Finally, we are encouraged by the activity on our larger vacancies.</segment>
+		<segment id="20" parent="21" relname="circumstance">At 1200 Redstone Gateway,</segment>
+		<segment id="21" parent="22" relname="preparation">we are working with more than 300,000 square feet of demand or nearly 3x the buildings availability</segment>
+		<segment id="22" >and expect to have the former Boeing space leased well before the end of the year.</segment>
+		<segment id="23" parent="24" relname="result">At 2100 L Street in Washington, D.C., the volume and pace of activity has markedly improved.</segment>
+		<segment id="24" parent="25" relname="background">We are working with 165,000 square feet of prospects or more than double the building 74,000 square feet of availability.</segment>
+		<segment id="25" parent="26" relname="circumstance">Similarly, activity strengthened at 100 Light Street in Baltimore,</segment>
+		<segment id="26" parent="27" relname="elaboration">where we are tracking a 145,000 square feet of prospects,</segment>
+		<segment id="27" >representing an 82% activity ratio.</segment>
+		<segment id="28" parent="29" relname="motivation">We look forward to announcing progress on this activity in coming quarters.</segment>
+		<segment id="29" >With that, I'll hand the call back to Steve.</segment>
+		<segment id="30" >Steve Budorick Thanks, Todd.</segment>
+		<segment id="31" parent="32" relname="restatement">To summarize, we delivered another strong quarter,</segment>
+		<segment id="32" parent="33" relname="elaboration">and we are on track to meet or exceed our 2022 business plan.</segment>
+		<segment id="33" parent="34" relname="restatement">Vacancy leasing remains strong,</segment>
+		<segment id="34" >and first quarter results significantly exceeded our 5-year quarterly average.</segment>
+	</body>
+</rst>

@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="preparation">with this in mind,</segment>
+		<segment id="2" parent="23" relname="preparation">we plan to continue to evolve our market leading offering in fiscal year 2023 to deliver a superior value proposition to both consumers</segment>
+		<segment id="3" parent="23" relname="purpose">and winemakers while focusing on improving the early life retention and conversion of new customers.</segment>
+		<segment id="4" parent="5" relname="motivation">At the same time,</segment>
+		<segment id="5" parent="24" relname="span">we're focused on optimizing our early life consumer offering to drive customer acquisition at scale,</segment>
+		<segment id="6" parent="24" relname="preparation">and investing to build brand awareness,</segment>
+		<segment id="7" parent="6" relname="elaboration">perception,</segment>
+		<segment id="8" parent="6" relname="purpose">trust and comprehension of the Naked Wines value proposition in all of our markets.</segment>
+		<segment id="9" parent="10" relname="elaboration">There are a few themes that are relevant to our fiscal year 2023 guidance.</segment>
+		<segment id="10" parent="11" relname="condition">First, we have seen and has continue to expect a measure of enduring inflationary pressure in all markets.</segment>
+		<segment id="11" parent="12" relname="circumstance">Second, consumer sentiment has been impacted by inflation and the geopolitical environment,</segment>
+		<segment id="12" >which we expect to continue to some measure.</segment>
+		<segment id="13" parent="14" relname="preparation">And finally, as we shift our UK business towards a more premium offering,</segment>
+		<segment id="14" >we expect to invest approximately £5 million less in new customers in that market with resulting in relatively flat year-over-year sales.</segment>
+		<segment id="15" parent="14" relname="circumstance">As we've repositioned the customer base toward a higher quality revenue.</segment>
+		<segment id="16" parent="17" relname="result">Given the current macroeconomic environment,</segment>
+		<segment id="17" parent="25" relname="result">we expect to manage to break even adjusted EBITDA,</segment>
+		<segment id="18" parent="25" relname="circumstance">excluding share based compensation and non-cash terms.</segment>
+		<segment id="19" parent="20" relname="preparation">Additionally, given this uncertainty, we are providing the following guidance.</segment>
+		<segment id="20" parent="26" relname="span">Total group sales ranging from £345 million to £375 million,</segment>
+		<segment id="21" parent="27" relname="concession">which is a year-over-year change of minus 4% to plus 4% on a constant currency basis.</segment>
+		<segment id="22" parent="27" relname="result">Investment in new customer acquisition range of £30 million to £40 million, repeat customer contribution profit range of £83 million to £93 million</segment>
+		<group id="23" type="span" />
+		<group id="24" type="span" />
+		<group id="25" type="span" />
+		<group id="26" type="span" parent="21" relname="concession"/>
+		<group id="27" type="span" />
+	</body>
+</rst>

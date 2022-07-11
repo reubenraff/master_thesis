@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="condition">That seems tighter than I think I've normally seen?</segment>
+		<segment id="2" >And maybe you could just comment on that.</segment>
+		<segment id="3" parent="4" relname="circumstance">Steve Budorick Tighter?</segment>
+		<segment id="4" parent="22" relname="circumstance">Rich Anderson Is it normally 200 base?</segment>
+		<segment id="5" parent="22" relname="evaluation">I always thought it was a little bit wider than 200 basis points.</segment>
+		<segment id="6" parent="7" relname="antithesis">Steve Budorick At least, I don't study that.</segment>
+		<segment id="7" >I got to be honest with you.</segment>
+		<segment id="8" parent="9" relname="concession">Why don't we follow up with you on that one, Rich?</segment>
+		<segment id="9" parent="23" relname="span">Rich Anderson Stumping you, Steve.</segment>
+		<segment id="10" >It's so much fun.</segment>
+		<segment id="11" parent="12" relname="elaboration">Steve Budorick I will say we did get a lot of vacancy back in the last quarter with Transamerica</segment>
+		<segment id="12" parent="13" relname="circumstance">and the transition with Boeing,</segment>
+		<segment id="13" parent="14" relname="preparation">and we have good demand behind it.</segment>
+		<segment id="14" >And we expect that will create some opportunity for nice growth next year.</segment>
+		<segment id="15" >Rich Anderson Okay.</segment>
+		<segment id="16" parent="17" relname="evaluation">And then my last question is with everything that's going on in Ukraine and you just walked through the process of congressional approval to leasing,</segment>
+		<segment id="17" >I thought that was a very interesting perspective, so thank you for that.</segment>
+		<segment id="18" parent="19" relname="circumstance">But in the office business, you obviously run a niche, and there's other niches in office like life science,</segment>
+		<segment id="19" parent="24" relname="circumstance">and you've seen a lot of conventional office players try to get themselves intertwined into the life science world.</segment>
+		<segment id="20" parent="24" relname="evaluation">Do you see that similar dynamic happening in your neck of the woods?</segment>
+		<segment id="21" parent="20" relname="circumstance">Or is it the reverse that people kind of hesitate to work directly with the government because there's so much</segment>
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="11" relname="circumstance"/>
+		<group id="24" type="span" />
+	</body>
+</rst>

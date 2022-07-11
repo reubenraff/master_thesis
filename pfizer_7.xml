@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">Now let's go back to PAXLOVID.</segment>
+		<segment id="2" >PAXLOVID is more used right now in the U.S. than in Europe.</segment>
+		<segment id="3" parent="2" relname="concession">Europe is lesser the use.</segment>
+		<segment id="4" parent="3" relname="elaboration">And the U.S. is doing very, very well actually.</segment>
+		<segment id="5" >The latest data that we saw -- I think the latest data we presented was at our earnings call</segment>
+		<segment id="6" parent="5" relname="circumstance">and we were at 90,000 treatments per week.</segment>
+		<segment id="7" parent="8" relname="elaboration">Three weeks later or four weeks later,</segment>
+		<segment id="8" parent="21" relname="elaboration">I don't remember when exactly it was, we are at 40,000.</segment>
+		<segment id="9" parent="21" relname="evaluation">So that's a dramatic jump per week</segment>
+		<segment id="10" parent="9" relname="preparation">to 40,000 per week and this is growing.</segment>
+		<segment id="11" parent="10" relname="circumstance">Right now we have in the U.S. approximately more than 60% of people eligible are receiving.</segment>
+		<segment id="12" parent="13" relname="concession">Now, of course,</segment>
+		<segment id="13" parent="22" relname="span">if you take into consideration what are the daily</segment>
+		<segment id="14" parent="22" relname="elaboration">or the weekly reported cases from CDC?</segment>
+		<segment id="15" parent="16" relname="circumstance">If there is underreported,</segment>
+		<segment id="16" >then this percentage will drop,</segment>
+		<segment id="17" parent="18" relname="circumstance">of course, right. For example,</segment>
+		<segment id="18" parent="23" relname="span">if it is double,</segment>
+		<segment id="19" parent="20" relname="concession">then 30% are getting it, right.</segment>
+		<segment id="20" >But the point is that this 60%,</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="19" relname="circumstance"/>
+	</body>
+</rst>

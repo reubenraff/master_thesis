@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Unidentified Analyst Also,</segment>
+		<segment id="2" parent="3" relname="condition">how are you guys thinking about this issue of the virus escaping PAXLOVID?</segment>
+		<segment id="3" >There's always a concern that with a single agent at the viral,</segment>
+		<segment id="4" parent="3" relname="concession">you will sooner or later see an escape.</segment>
+		<segment id="5" parent="6" relname="circumstance">But what are your estimates about the risk</segment>
+		<segment id="6" parent="45" relname="span">and likelihood of timing with something like this?</segment>
+		<segment id="7" parent="45" relname="circumstance">Albert Bourla By escaping you mean resistance?</segment>
+		<segment id="8" parent="9" relname="condition">Unidentified Analyst Yes, resistance.</segment>
+		<segment id="9" >Albert Bourla We monitor it very, very closely.</segment>
+		<segment id="10" parent="9" relname="evaluation">But I don't think anyone reasonable is expecting now to see resistance.</segment>
+		<segment id="11" parent="12" relname="circumstance">We haven't seen any, right? I don't think anyone would expect now.</segment>
+		<segment id="12" >Usually you can see resistance,</segment>
+		<segment id="13" parent="14" relname="solutionhood">but we are talking about four years,</segment>
+		<segment id="14" parent="46" relname="span">five years after the use of our medicines.</segment>
+		<segment id="15" parent="46" relname="elaboration">That's the typical thing that you could see now.</segment>
+		<segment id="16" parent="15" relname="evaluation">PAXLOVID I think is going to be quite resistant to developing resistance for a few reasons.</segment>
+		<segment id="17" parent="18" relname="circumstance">The first one,</segment>
+		<segment id="18" >it is that the protein that we inhibit is essential for the life of the virus.</segment>
+		<segment id="19" parent="18" relname="evaluation">It's very difficult for the virus to live without it.</segment>
+		<segment id="20" parent="21" relname="circumstance">The second is that PAXLOVID creates very high concentrations within the blood.</segment>
+		<segment id="21" parent="47" relname="span">It is multiples of EC90. The treatment is short.</segment>
+		<segment id="22" parent="47" relname="condition">It's five days and with a chronic treatment.</segment>
+		<segment id="23" parent="24" relname="justify">So for all these reasons,</segment>
+		<segment id="24" >we do not expect that [indiscernible] will happen soon.</segment>
+		<segment id="25" >But just in case, of course, we are developing alternatives and pretty soon we will go to the clinic with alternative antivirus, second generation. Unidentified Analyst I'm assuming you've done the experiment recently, attempted to select mutants by reducing the concentration of PAXLOVID in a cell culture environment. I'm assuming you were able to develop resistance. Albert Bourla We were not. Unidentified Analyst Okay. That's actually some element of hope, some reason for hope here. Albert Bourla I think it is.</segment>
+		<segment id="26" parent="27" relname="concession">We should never relax, but we did that, as you said,</segment>
+		<segment id="27" >and multiple labs in the world are doing that.</segment>
+		<segment id="28" >Unidentified Analyst Okay.</segment>
+		<segment id="29" parent="30" relname="background">Albert Bourla And so far, they haven't reported that they were able to create resistance there.</segment>
+		<segment id="30" >Unidentified Analyst So the other thing that happened with PAXLOVID which is really interesting is we spoke with Lidia.</segment>
+		<segment id="31" parent="32" relname="background">And one of the things that was mentioned is how PAXLOVID was actually developed in silico,</segment>
+		<segment id="32" >so using artificial intelligence and machine learning tools.</segment>
+		<segment id="33" parent="34" relname="elaboration">Can you talk a little bit about your own understanding of the value machine language created here versus more traditional development that Pfizer used in the past?</segment>
+		<segment id="34" parent="48" relname="span">And as a result of that, how are you changing how you think about development or discovering new drugs in Pfizer?</segment>
+		<segment id="35" parent="48" relname="evaluation">Albert Bourla I think the modern technologies had a dramatic impact.</segment>
+		<segment id="36" parent="37" relname="circumstance">Typically, the phase of -- Unidentified Analyst Maybe you want to expand a little bit to the audience,</segment>
+		<segment id="37" parent="49" relname="span">what exactly was done just in case people are less familiar with this?</segment>
+		<segment id="38" >Albert Bourla Yes.</segment>
+		<segment id="39" parent="49" relname="result">Basically, PAXLOVID instead of being drug discovered was drug designed.</segment>
+		<segment id="40" parent="41" relname="circumstance">So we were not having,</segment>
+		<segment id="41" parent="50" relname="span">let's say, a lot of molecules that they were tried in in vitro to see if they bind and how they are doing well,</segment>
+		<segment id="42" parent="50" relname="circumstance">a process that usually takes four years almost, right, by using a lot of things.</segment>
+		<segment id="43" parent="44" relname="result">We were able to concentrate that in four months,</segment>
+		<segment id="44" parent="51" relname="span">first of all, by taking some risks, but also by designing the molecule and testing it in silico.</segment>
+		<group id="45" type="span" />
+		<group id="46" type="span" />
+		<group id="47" type="span" />
+		<group id="48" type="span" />
+		<group id="49" type="span" />
+		<group id="50" type="span" />
+		<group id="51" type="span" parent="42" relname="solutionhood"/>
+	</body>
+</rst>

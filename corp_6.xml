@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Manny Korchman Right.</segment>
+		<segment id="2" parent="3" relname="circumstance">And then in terms of the same-store NOI growth guidance, I think you guys exceeded your own plan for the first quarter, but that didn't lead to a lift in the year.</segment>
+		<segment id="3" parent="4" relname="concession">Is there an offset somewhere?</segment>
+		<segment id="4" parent="21" relname="span">Or is it just kind of already accounted for in the range?</segment>
+		<segment id="5" parent="21" relname="result">Anthony Mifsud If you look at the actual outperformance in the first quarter, the actual total cash NOI increase versus our midpoint of guidance range was about $550,000.</segment>
+		<segment id="6" parent="7" relname="circumstance">So it wasn't a lot of incremental NOI that drove the percentage outperformance, first of all.</segment>
+		<segment id="7" parent="22" relname="span">And then as you look at the quarterly sort of cadence of cash NOI, the first quarter benefited from the burn off of free rent on several large leases, which offset the impact of the Boeing and Transamerica vacancies.</segment>
+		<segment id="8" parent="22" relname="concession">We don't have the benefit of that in the second and third and fourth quarter because that free rent had turned into cash rent in 2021 already.</segment>
+		<segment id="9" parent="10" relname="result">Manny Korchman And then I guess the question more is, if you look at Slide 11 of the presentation, you had a range of 0.1%.</segment>
+		<segment id="10" >You came in at 1.2%.</segment>
+		<segment id="11" parent="12" relname="justify">And see you exceeded your own range, but the midpoint of your own range by 70 basis points.</segment>
+		<segment id="12" >I guess the question is, why doesn't that flow through to the rest of the year if you -- if all those things you just named or should have been, I guess, knownst to you when you put out this initial guidance?</segment>
+		<segment id="13" parent="14" relname="elaboration">So what changed that won't remain sort of, I guess, more permanent for the rest of the year versus where your initial expectations are?</segment>
+		<segment id="14" >Anthony Mifsud So I guess what I was trying to point out is that the $0.5 million outperformance in the first quarter would increase where our -- the midpoint of our total range but not by enough to change the total range for the year.</segment>
+		<segment id="15" parent="16" relname="circumstance">So it's just not enough to move it from 0 -- flat to down 2% to something that's 50 basis points higher.</segment>
+		<segment id="16" >So nothing else has really changed.</segment>
+		<segment id="17" >Operator Our next question comes from Blaine Heck of Wells Fargo.</segment>
+		<segment id="18" parent="19" relname="evaluation">Blaine Heck Just related to Manny's first question on vacancy leasing and specifically with respect to Redstone, 100 Light and 2100 L. Is there anything included in guidance related to leasing at any of those properties?</segment>
+		<segment id="19" >Steve Budorick No, I don't believe there is.</segment>
+		<segment id="20" >Todd Hartman No.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+	</body>
+</rst>

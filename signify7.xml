@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="antithesis">We're also trying to see the opportunities we have to get a bit of cost on the bill of material.</segment>
+		<segment id="2" >So we're doing all that as we speak.</segment>
+		<segment id="3" parent="4" relname="circumstance">There was another question on the breakdown from the 3.1% of pricing and I will let Javier talk to it.</segment>
+		<segment id="4" >Javier Van Engelen Yes, on the breakdown again, look, I'm not 100% sure, but I'll go by, more by division, where you see the impact and what have we done so.</segment>
+		<segment id="5" parent="6" relname="circumstance">If you break down the pricing impact across division, of course, the biggest impact we see is in conventional on converting well above the average.</segment>
+		<segment id="6" >And as Eric already said it's because of conventional 2 things that we anticipated was the fact that energy prices were going up.</segment>
+		<segment id="7" parent="8" relname="antithesis">And of course from a logistics point of view, also the transport for the conventional product is less efficient.</segment>
+		<segment id="8" >What we have not included is a sudden increase in energy cost in Q1 and I said that's further price increases that will be implemented in the market.</segment>
+		<segment id="9" parent="10" relname="antithesis">But as I said, so conventional products has price increases or price impact which is clearly above high single digit.</segment>
+		<segment id="10" >When you look at DDS, DDS that's more around the average where we come in BDP slightly lower, again because they are slightly less impacted from the efficiency of transportation and also from the gas prices.</segment>
+		<segment id="11" parent="12" relname="preparation">So that's what we have breakdown by division and have a look at different actions.</segment>
+		<segment id="12" >And as we go forward, as I said, conventional will have to keep an eye on that as gas prices are really determining here logistics prices and we believe that on the DDS also there we have the right plans in place for pricing what is still needed.</segment>
+		<segment id="13" >Joseph Zhou Yes.</segment>
+		<segment id="14" parent="15" relname="condition">And my other question is on the other side of the equation of inflation if you like.</segment>
+		<segment id="15" >Also we have seen very high energy prices and especially in Europe.</segment>
+		<segment id="16" parent="17" relname="condition">And so what's the kind of impact on lighting demand when it comes through LED retrofit?</segment>
+		<segment id="17" >I mean, you mentioned a bit about the Green Deal, maybe you can elaborate a bit in exactly how the customers are changing their attitude towards the LED projects et cetera, including connectivity.</segment>
+		<segment id="18" parent="17" relname="preparation">And also, does that also have an impact on your how to cut your lighting business as well, because I see food prices et cetera all going very high.</segment>
+		<segment id="19" parent="20" relname="motivation">And I think you're -- all of your lighting products can save a lot of water and fertilizer, et cetera.</segment>
+		<segment id="20" >And there may be some tailwind from that as well, maybe you can kind of elaborate a little bit about the phase 2 potential impact?</segment>
+		<segment id="21" >Eric Rondolat Yes, Joseph.</segment>
+		<segment id="22" parent="23" relname="circumstance">Look, it's always very complicated to see positive things in the crisis that we're seeing at this point in time.</segment>
+		<segment id="23" >But very clearly, there will be higher demand for energy efficient solutions.</segment>
+		<segment id="24" parent="25" relname="result">And you know that with lighting, we can provide that and we can provide that at a very low cost.</segment>
+		<segment id="25" parent="26" relname="result">You change your light source, you put connectivity, it is simple to do and you get very quickly important results up to 80% of energy saving.</segment>
+		<segment id="26" parent="27" relname="elaboration">So clearly the hike in energy prices today is creating more demand for energy efficient solution.</segment>
+		<segment id="27" >So we see that with the level of the Green Deal for sure.</segment>
+		<segment id="28" parent="29" relname="evaluation">We see that at the level of our connected offers.</segment>
+		<segment id="29" >What is very interesting is that we realized because we have calculation of ROI that with the today price of energy, the retail on investment of many of the solutions that we have been promoting to the market for many, many years has pretty much improved.</segment>
+		<segment id="30" parent="31" relname="solutionhood">So the discussion especially when we offer connected system behind return on investment in different types of sites and application, I mean we're now in a position to offer to our customers a much better number.</segment>
+		<segment id="31" >So we think that that will drive further the business.</segment>
+		<segment id="32" parent="33" relname="solutionhood">When we look today at our funnel in systems on the provision side, the funnel is extremely healthy and effectively given the situation we are probably more listened or people appreciate the fact that the return on investment of our solutions are much better than they used to be horticulture.</segment>
+		<segment id="33" >What we've seen in horticulture on the other hand is probably your move from conventional more to LNG, to be able not only to have the positive impact on yield, but also to be able to save energy, which was if you look back 12 years ago that was not a major thing for growers, they wanted quality lives, we were selling conventional, we were selling LED.</segment>
+		<segment id="34" parent="35" relname="result">But clearly today, we see that business growing very healthily, I mean it's been growing also tremendously in Q1.</segment>
+		<segment id="35" >And clearly with the preference now for LED that had to save energy.</segment>
+		<segment id="36" parent="35" relname="restatement">Yes, so we see traction overall on our LED and LED connected systems.</segment>
+	</body>
+</rst>

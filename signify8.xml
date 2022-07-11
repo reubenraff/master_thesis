@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">And I would expect as we go throughout the year, you'll see that positive impact.</segment>
+		<segment id="2" >Now again, it's a fluid situation out there on how short-term impact happens.</segment>
+		<segment id="3" parent="2" relname="purpose">We are trying to project at least 6 months out and then incorporates in pricing.</segment>
+		<segment id="4" parent="5" relname="motivation">It's true that with inflation happening with consumer confidence going down, it might become a little bit more difficult on pricing and we have to also make sure we have the right cost savings in place.</segment>
+		<segment id="5" >But fundamentally so far, I think you could expect that we will target to compensate through pricing, cost savings, the inflation impact we have.</segment>
+		<segment id="6" parent="7" relname="concession">So that on a -- on the run rate basis sequentially quarter-by-quarter we maintain our gross margin at the levels where we are.</segment>
+		<segment id="7" >And then I would say on China and US tariffs, I'm not sure, Eric, if you have any more information?</segment>
+		<segment id="8" parent="9" relname="condition">Eric Rondolat No, you know, I think, Daniela, with time this had substantially reduced from what it was at the beginning.</segment>
+		<segment id="9" >So there may be a few tens of millions here and there, but we're going to look into it into more details, I haven't really checked that specifically.</segment>
+		<segment id="10" >Daniela Costa And then just on inventory, can I just clarify in terms of like the increase, would you say it's all down to goods in transit or is also a part of like you over produced and could that have had an impact on margin, what's the mix there?</segment>
+		<segment id="11" parent="10" relname="elaboration">Eric Rondolat Well, when we talk about inventory, you have 3 elements.</segment>
+		<segment id="12" parent="11" relname="circumstance">You have Industrial inventory, you have good in transit and you have finished goods.</segment>
+		<segment id="13" parent="14" relname="background">So when you see the global increase of inventory, I would say it's an increase on the 3 different categories.</segment>
+		<segment id="14" >Now what we need to picture is the following.</segment>
+		<segment id="15" parent="14" relname="elaboration">Imagine that you have a supply chain where you have flexibility, which is 3 months and then that flexibility becomes 8 months.</segment>
+		<segment id="16" parent="15" relname="preparation">This means that basically when you forecast, you need to forecast on day one for what's going to happen in 8 months from now.</segment>
+		<segment id="17" parent="18" relname="justify">It also means that if you realize during these 8 months that you're going to consume less, it's very difficult to change because it's already in the pipe and the supply chain has lost the flexibility that it used to have.</segment>
+		<segment id="18" >So when you put things in perspective, we had in our plans to sell more than what we sold in Q3 2021, also in Q4 2021 and Q1 2022.</segment>
+		<segment id="19" >Why?</segment>
+		<segment id="20" >Well, we know what has happened.</segment>
+		<segment id="21" parent="22" relname="concession">We had a major supply chain issue in worldwide, which affected us in H2 2021.</segment>
+		<segment id="22" parent="32" relname="concession">And the Q1 2022 didn't really happen exactly as we expected it from a macro perspective.</segment>
+		<segment id="23" parent="32" relname="concession">So at the end of the day, we had planned to sell more.</segment>
+		<segment id="24" parent="23" relname="circumstance">And that generates an inventory that is coming and you see the situation of the inventory today and it has an impact on the 3 different category, which is Industrial inventory, good in transit, but also finished goods.</segment>
+		<segment id="25" parent="24" relname="preparation">So the lack of flexibility that we have now has grown that inventory and I would say one part is, I would say normal now linked to the fact that when your supply chain lead time increases, you need to increase your inventory to cover your demand and the next part is what I would say an era in forecasting because we showed that we would be selling more than what we have.</segment>
+		<segment id="26" >Daniela Costa Got it.</segment>
+		<segment id="27" parent="28" relname="condition">So there is a little bit of overproduction, which potentially positively impacts the margin?</segment>
+		<segment id="28" parent="33" relname="span">Eric Rondolat Well, what we believe is that some of the inventory that was produced and that is coming was -- will be sold during the year or so.</segment>
+		<segment id="29" parent="33" relname="preparation">I mean we have a reserve on cash that we need now to convert and this is what we're going to do in the rest of the year.</segment>
+		<segment id="30" >Operator Our next question comes from the line of Joseph Zhou from Redburn.</segment>
+		<segment id="31" >Joseph Zhou I'll go one at a time.</segment>
+		<group id="32" type="span" />
+		<group id="33" type="span" />
+	</body>
+</rst>

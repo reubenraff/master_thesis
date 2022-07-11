@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="result">We ended the year with a strong balance sheet and cash on hand of Â£40 million.</segment>
+		<segment id="2" parent="19" relname="span">Having restock we also finished fiscal year 2022 with Â£142 million of fantastic wine inventory.</segment>
+		<segment id="3" parent="19" relname="antithesis">We also added a $60 million headline credit facility with a syndicate of banks led by Silicon Valley Bank.</segment>
+		<segment id="4" parent="3" relname="antithesis">This facility allows us to borrow against our U.S. base inventory and will provide additional liquidity to the business.</segment>
+		<segment id="5" parent="4" relname="preparation">Over the next 12 months we expect to continue to increase inventory levels,</segment>
+		<segment id="6" parent="22" relname="purpose">which the credit facility can be used for as needed. Free cash flow used in fiscal year 2022 was £44 million,</segment>
+		<segment id="7" parent="6" relname="motivation">primarily driven by restocking of our inventory levels following lower inventory levels at the end of last fiscal year.</segment>
+		<segment id="8" parent="9" relname="preparation">As a reminder, our capital allocation philosophy is predicated first on maintaining sufficient cash</segment>
+		<segment id="9" parent="10" relname="elaboration">and liquidity to operate the business given the seasonality in our inventory,</segment>
+		<segment id="10" >purchasing cycle and our sales.</segment>
+		<segment id="11" parent="12" relname="preparation">From there we allocate capital toward growth investments that generate a return in excess of our internal hurdle rate.</segment>
+		<segment id="12" parent="23" relname="purpose">After that, if we identify that we have excess capital,</segment>
+		<segment id="13" >this will be returned to shareholders.</segment>
+		<segment id="14" parent="15" relname="motivation">Given the growth opportunities in front of us,</segment>
+		<segment id="15" >we're not proposing any distributions or returns of capital to shareholders at this time.</segment>
+		<segment id="16" parent="17" relname="preparation">Looking ahead,</segment>
+		<segment id="17" parent="18" relname="motivation">we're focused on executing against our core growth strategies,</segment>
+		<segment id="18" >investing in the business and attractive returns and increasing shareholder value over the long term.</segment>
+		<group id="19" type="span" />
+		<group id="22" type="span" parent="5" relname="purpose"/>
+		<group id="23" type="span" parent="13" relname="purpose"/>
+	</body>
+</rst>

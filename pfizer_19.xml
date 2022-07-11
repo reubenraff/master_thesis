@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">Actually I tried with some of them earlier and they wouldn't.</segment>
+		<segment id="2" parent="21" relname="circumstance">But I don't think</segment>
+		<segment id="3" parent="21" relname="circumstance">that I will use that as a tangible example or to see how many people</segment>
+		<segment id="4" parent="3" relname="evidence">-- how easy it is becoming now to recruit.</segment>
+		<segment id="5" parent="6" relname="evidence">But I would say that when your name is almost a household brand with the positive impression,</segment>
+		<segment id="6" >there is a lot of value that multiple assessors of Vale [ph] will put in something like that.</segment>
+		<segment id="7" parent="8" relname="evaluation">I consider -- when I tried to see the landscape between Pfizer and competitors,</segment>
+		<segment id="8" >I see that we have assets and capabilities.</segment>
+		<segment id="9" parent="10" relname="circumstance">And I think in terms of assets,</segment>
+		<segment id="10" parent="22" relname="circumstance">I would put clearly the brand name right now,</segment>
+		<segment id="11" parent="22" relname="condition">which is standing out,</segment>
+		<segment id="12" parent="23" relname="background">and the capital flexibility,</segment>
+		<segment id="13" parent="12" relname="elaboration">the firepower.</segment>
+		<segment id="14" parent="15" relname="background">And this capabilities,</segment>
+		<segment id="15" parent="16" relname="circumstance">I will put the commercial capabilities,</segment>
+		<segment id="16" parent="17" relname="elaboration">the clinical development,</segment>
+		<segment id="17" parent="18" relname="elaboration">the manufacturing,</segment>
+		<segment id="18" parent="24" relname="circumstance">and the early research.</segment>
+		<segment id="19" parent="24" relname="circumstance">I think in the early research,</segment>
+		<segment id="20" parent="19" relname="evaluation">I think we're doing very well.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="11" relname="elaboration"/>
+		<group id="24" type="span" />
+	</body>
+</rst>

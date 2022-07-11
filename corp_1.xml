@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >As a reminder, today's call is being recorded.</segment>
+		<segment id="2" parent="3" relname="background">At this time, I'd like to turn the call over to Stephanie Krewson-Kelly, COPT, Vice President of Investor Relations.</segment>
+		<segment id="3" >Ms. Krewson-Kelly, please go ahead.</segment>
+		<segment id="4" >Stephanie Krewson-Kelly Thank you, Valerie.</segment>
+		<segment id="5" >Good afternoon, and welcome to COPT's conference call to discuss first quarter results.</segment>
+		<segment id="6" >With me today are Steve Budorick,</segment>
+		<segment id="7" >President and CEO; Todd Hartman, Executive Vice President and COO;</segment>
+		<segment id="8" >and Anthony Mifsud, EVP and CFO.</segment>
+		<segment id="9" >Reconciliations of GAAP and non-GAAP financial measures</segment>
+		<segment id="10" >that management discusses are available on our website in the results,</segment>
+		<segment id="11" >press release and presentation and in our supplemental information package.</segment>
+		<segment id="12" >As a reminder, forward-looking statements made during today's call are subject to risks</segment>
+		<segment id="13" >and uncertainties,</segment>
+		<segment id="14" >which are discussed at length in our SEC filings.</segment>
+		<segment id="15" >Actual events and results can differ materially from these forward-looking statements,</segment>
+		<segment id="16" >and the company does not undertake a duty to update them.</segment>
+		<segment id="17" >Steve?</segment>
+		<segment id="18" >Steve Budorick Good afternoon, and thank you for joining us.</segment>
+		<segment id="19" parent="20" relname="result">Yesterday, we announced another strong quarter with continued progress on our growth strategy.</segment>
+		<segment id="20" parent="21" relname="elaboration">Our successful performance and execution since 2018 have positioned our company</segment>
+		<segment id="21" parent="22" relname="circumstance">to deliver reliable annual FFO growth and long-term shareholder value.</segment>
+		<segment id="22" parent="23" relname="circumstance">Over the past decade, COPT has deeply concentrated its invested capital in the property,</segment>
+		<segment id="23" parent="24" relname="elaboration">supporting priority U.S. defense missions</segment>
+		<segment id="24" parent="25" relname="condition">and select mission-critical assets in regions</segment>
+		<segment id="25" parent="26" relname="result">that we collectively refer to as Defense/IT locations.</segment>
+		<segment id="26" parent="27" relname="circumstance">These locations now generate 90% of our annualized rental revenue.</segment>
+		<segment id="27" parent="28" relname="elaboration">Our concentration of leases to the U.S. government</segment>
+		<segment id="28" parent="29" relname="preparation">and high credit tenants supporting national defense and cyber-security is the foundation of our ability to generate resilient,</segment>
+		<segment id="29" >high-quality cash flow regardless of the broader economy.</segment>
+		<segment id="30" parent="31" relname="preparation">Our external growth strategy is driven by our achievement of pre-leased and low-risk development at these proven Defense/IT locations.</segment>
+		<segment id="31" >We have an advantaged position in this unique market as the go-to landlord for specialized space,</segment>
+		<segment id="32" parent="31" relname="circumstance">satisfying government security requirements.</segment>
+		<segment id="33" parent="32" relname="result">We continue to experience strong leasing demand.</segment>
+	</body>
+</rst>

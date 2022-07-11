@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="circumstance">And that is that a very small number of gatekeepers control access to most retail points of distribution in the U.S.</segment>
+		<segment id="2" parent="1" relname="circumstance">So even if you make great wine</segment>
+		<segment id="3" parent="2" relname="elaboration">and have the financing to produce that,</segment>
+		<segment id="4" parent="21" relname="concession">getting your product in front of customers is very challenging.</segment>
+		<segment id="5" parent="6" relname="condition">On the consumer side,</segment>
+		<segment id="6" parent="22" relname="elaboration">we see often an illusion of choice,</segment>
+		<segment id="7" parent="8" relname="concession">retailers offering hundreds of products,</segment>
+		<segment id="8" >but maybe produced predominantly by three or four large producers.</segment>
+		<segment id="9" >We also see that a lot of times what you pay for the consumer isn't the direct cost of production,</segment>
+		<segment id="10" parent="9" relname="condition">especially in the U.S. where the three tier system adds a lot of intermediary cost</segment>
+		<segment id="11" parent="10" relname="elaboration">and Americans pay more for wine than consumers do anywhere else on earth.</segment>
+		<segment id="12" parent="11" relname="result">So we think consumers are not getting fair value for money.</segment>
+		<segment id="13" parent="14" relname="evaluation">And finally, I don't think the wine industry has done a great job of responding to clear consumer desire for heightened provenance</segment>
+		<segment id="14" >and a sense of the people behind the products they're consuming.</segment>
+		<segment id="15" parent="16" relname="condition">If you look, for example, the way the craft beer industry,</segment>
+		<segment id="16" >has helped beer drinkers understand where their beer came from,</segment>
+		<segment id="17" parent="16" relname="elaboration">who made it and why they're passionate about it,</segment>
+		<segment id="18" parent="19" relname="purpose">I believe there's a real imperative for the wine industry to do that better.</segment>
+		<segment id="19" >Now at Naked, we look to solve these problems by bringing wine maker and consumer together.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" parent="7" relname="elaboration"/>
+	</body>
+</rst>

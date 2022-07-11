@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Thank you.</segment>
+		<segment id="2" parent="3" relname="elaboration">Then we have Johannes Ries.</segment>
+		<segment id="3" parent="20" relname="condition">He has a question regarding price effect on the backlog.</segment>
+		<segment id="4" parent="20" relname="span">Higher prices only --</segment>
+		<segment id="5" parent="4" relname="circumstance">is it higher prices only for new orders</segment>
+		<segment id="6" parent="5" relname="elaboration">or upward adjustments for the whole backlog?</segment>
+		<segment id="7" parent="8" relname="condition">Basically, the cost is for the whole backlog, so the price impact on the whole...</segment>
+		<segment id="8" parent="21" relname="span">But the adjustment of price was done in Q4.</segment>
+		<segment id="9" parent="21" relname="condition">There's no pricing adjustment from backlog [this quarter].</segment>
+		<segment id="10" parent="9" relname="elaboration">So there is -- I mean it was done end of December.</segment>
+		<segment id="11" >Thank you.</segment>
+		<segment id="12" parent="13" relname="condition">Then we have a question regarding cellular from Rob Sanders,</segment>
+		<segment id="13" >Deutsche Bank.</segment>
+		<segment id="14" parent="15" relname="circumstance">Are you still confident to get cellular IoT sales</segment>
+		<segment id="15" parent="22" relname="span">above $100 million by 2024?</segment>
+		<segment id="16" parent="22" relname="solutionhood">Yes. Answer is yes.</segment>
+		<segment id="17" >WiFi, can you give an update on WiFi progress in second half 2022?</segment>
+		<segment id="18" parent="23" relname="span">We are going to ship over --</segment>
+		<segment id="19" parent="18" relname="solutionhood">we have secured allocation for wafers for end of this year where the WiFi project runs.</segment>
+		<group id="20" type="span" />
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="17" relname="result"/>
+	</body>
+</rst>

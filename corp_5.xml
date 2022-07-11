@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">We are on track to achieve our full year guidance for development leasing,</segment>
+		<segment id="2" >and we expect strong second quarter results.</segment>
+		<segment id="3" parent="4" relname="purpose">Our 1.7 million square feet of active developments are 96% leased,</segment>
+		<segment id="4" >assuring incremental NOI from these properties that will drive FFO growth in coming years.</segment>
+		<segment id="5" parent="6" relname="circumstance">Our development leasing pipeline is 1.2 million square feet of opportunities,</segment>
+		<segment id="6" >which we believe will translate into strong future development leasing.</segment>
+		<segment id="7" parent="8" relname="circumstance">Congress appropriated the fiscal year 2022 National Defense Authorization Act in March,</segment>
+		<segment id="8" parent="9" relname="elaboration">providing the Department of Defense with a 5.8% increase in its base budget,</segment>
+		<segment id="9" parent="10" relname="elaboration">the largest annual increase since fiscal year 2018,</segment>
+		<segment id="10" parent="11" relname="circumstance">suggesting leasing demand will remain strong into 2024.</segment>
+		<segment id="11" parent="12" relname="preparation">And lastly, we've delivered strong growth over the past 3 years,</segment>
+		<segment id="12" parent="13" relname="elaboration">and we expect to continue to deliver both FFO</segment>
+		<segment id="13" >and NAV growth in the coming years.</segment>
+		<segment id="14" >Operator, please open up the call for questions.</segment>
+		<segment id="15" >Question-and-Answer Session Operator [Operator Instructions]</segment>
+		<segment id="16" >Our first question comes from Manny Korchman of Citi.</segment>
+		<segment id="17" parent="18" relname="circumstance">Manny Korchman Thanks for sharing the pipelines on those 3 big targeted lease-ups.</segment>
+		<segment id="18" parent="19" relname="circumstance">Just how is your confidence level on getting those done now versus maybe a few months ago?</segment>
+		<segment id="19" parent="20" relname="condition">I know you've sort of broken it down to how much demand you have for each and their multiples.</segment>
+		<segment id="20" >But sort of what's the probability of actually getting the leases done and at what time frame?</segment>
+		<segment id="21" parent="22" relname="motivation">Todd Hartman Well, we're very encouraged by the activity increase at all of the assets over the quarter.</segment>
+		<segment id="22" parent="23" relname="circumstance">We've seen increases in D.C.,</segment>
+		<segment id="23" parent="24" relname="concession">increases in Baltimore and increases down in Huntsville,</segment>
+		<segment id="24" >and the probability of getting a lease done is hard to predict.</segment>
+		<segment id="25" parent="26" relname="motivation">We're very confident that we will get leasing done in the coming quarters,</segment>
+		<segment id="26" parent="27" relname="condition">but hesitate to put a time frame on it.</segment>
+		<segment id="27" >Manny Korchman But you feel better now than you did a little while ago, it sounds like.</segment>
+		<segment id="28" >Todd Hartman Yes.</segment>
+		<segment id="29" parent="30" relname="evaluation">I think activity overall is increasing.</segment>
+		<segment id="30" parent="31" relname="circumstance">We've seen, as we said, increasing levels of activity in D.C.</segment>
+		<segment id="31" parent="32" relname="evaluation">and increasing levels -- increasing tour activity in Baltimore, increasing tour activity in D.C.</segment>
+		<segment id="32" parent="33" relname="evaluation">So yes, I would characterize activity is increasing.</segment>
+		<segment id="33" >Steve Budorick And I'd add, we're extremely confident in Huntsville.</segment>
+	</body>
+</rst>

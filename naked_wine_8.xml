@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="condition">The remaining 87% was from cohorts that we acquired in prior years.</segment>
+		<segment id="2" >It's also worth noting that we retain a high percentage of cohort contribution profit year-over-year,</segment>
+		<segment id="3" parent="2" relname="evidence">and we find that retention improves as the cohorts age.</segment>
+		<segment id="4" parent="5" relname="result">This year,</segment>
+		<segment id="5" >the contribution profit that we retain was less than in prior years,</segment>
+		<segment id="6" parent="5" relname="motivation">driven by the year-over-year decrease in margins due to the global supply chain disruption.</segment>
+		<segment id="7" parent="8" relname="restatement">Said differently,</segment>
+		<segment id="8" >the revenue retention of these billboards is similar to prior periods with even higher year-over-year cohort retention.</segment>
+		<segment id="9" parent="10" relname="result">And this strong retention I've just talked about leads to cash flow from our customer cohorts.</segment>
+		<segment id="10" parent="11" relname="elaboration">We have generated strong returns on our investment spend over the past 10 years,</segment>
+		<segment id="11" >with cumulative contribution profit of £350 million on £190 million of initial investment.</segment>
+		<segment id="12" parent="11" relname="evidence">That means we've generated over £190 million of contribution profit in excess of our investments over this timeframe.</segment>
+		<segment id="13" parent="14" relname="evaluation">And importantly,</segment>
+		<segment id="14" >all of our cohorts from FY13 through fiscal year 2021 have already paid back.</segment>
+		<segment id="15" parent="16" relname="concession">Standstill EBIT shown here is the adjusted EBIT</segment>
+		<segment id="16" parent="17" relname="concession">that we report if we had only invested in new customers to replenish the current customer base,</segment>
+		<segment id="17" parent="18" relname="circumstance">rather than for both replenishment and growth.</segment>
+		<segment id="18" >Standstill EBIT was £21 million pounds.</segment>
+		<segment id="19" parent="20" relname="preparation">Additionally, in response to feedback from shareholders,</segment>
+		<segment id="20" parent="24" relname="solutionhood">we've added an additional standstill EBIT calculation,</segment>
+		<segment id="21" parent="22" relname="elaboration">which uses a trailing three-year simple average for sales retention and year one payback.</segment>
+		<segment id="22" parent="24" relname="span">To help normalize these metrics from the variations that we have seen over the last few years due to the pandemic related lock downs.</segment>
+		<group id="24" type="span" />
+	</body>
+</rst>

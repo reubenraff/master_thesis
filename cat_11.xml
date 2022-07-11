@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >And certainly, this is not a situation where you flip a switch and it changes overnight</segment>
+		<segment id="2" parent="3" relname="antithesis">We've already started to make some changes but this will be something that will evolve for some time as we think about, again, resiliency as being a very important part of the equation</segment>
+		<segment id="3" >Chad Dillard So next question for you</segment>
+		<segment id="4" >So China -- as China slowly reopens, how do you expect the cadence of reopening to play out? And are you starting to see any evidence of this flowing through your results, such as your order book? Jim Umpleby Yes</segment>
+		<segment id="5" parent="4" relname="concession">Again -- there's a lot of dynamics here</segment>
+		<segment id="6" parent="7" relname="circumstance">So again, when you think about our business, we just don't think about shutdowns</segment>
+		<segment id="7" parent="8" relname="elaboration">We also have to think about the market dynamics over the last few years and the fact that our demand was extraordinarily strong in 2020 and 2021</segment>
+		<segment id="8" >So again, what we see is that total industry 10-ton hydraulic excavators and above being slightly below 2019 levels</segment>
+		<segment id="9" parent="8" relname="preparation">And, we still expect that to be the case</segment>
+		<segment id="10" parent="9" relname="condition">So again, not a change from where we see it as a result of what's happening with COVID</segment>
+		<segment id="11" parent="12" relname="circumstance">Chad Dillard Okay</segment>
+		<segment id="12" >And then can you talk about just CAT's approach to succession planning? Jim Umpleby Sure</segment>
+		<segment id="13" parent="12" relname="concession">That's a loaded question</segment>
+		<segment id="14" parent="13" relname="background">So the CAT's Board of Directors takes their succession planning responsibility very seriously, it is something the Board is continually focused on</segment>
+		<segment id="15" parent="14" relname="antithesis">The Board, again -- at every Board meeting has a conversation, both with the CEO and without the CEO</segment>
+		<segment id="16" parent="17" relname="evidence">We look at talent within all levels of the organization</segment>
+		<segment id="17" parent="21" relname="span">We believe that we have a strong bench strength of executives</segment>
+		<segment id="18" >We are working to continually enhance the capabilities and experience of those executives and looking one level down and two levels below that</segment>
+		<segment id="19" parent="18" relname="elaboration">So it isn't just for the next CEO succession but it's for the one after that and one after that, looking at talent in all levels of the organization</segment>
+		<segment id="20" parent="19" relname="motivation">Obviously, a big focus on diversity as well as we work to advance our diversity objectives</segment>
+		<group id="21" type="span" parent="18" relname="preparation"/>
+	</body>
+</rst>

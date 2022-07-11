@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="evidence">Now it's coming back and boy, that business this first quarter, up 7%.</segment>
+		<segment id="2" >It's growing back.</segment>
+		<segment id="3" parent="4" relname="concession">I'm very positive about end users,</segment>
+		<segment id="4" >even though we've taken a lot of price increases,</segment>
+		<segment id="5" parent="4" relname="evaluation">they are because the Rubbermaid Commercial brand is so strong,</segment>
+		<segment id="6" parent="5" relname="preparation">and we have put so many innovations like Rubbermaid Bret with wheels,</segment>
+		<segment id="7" parent="6" relname="evidence">material handling, with new technologies. So I think the power of innovation is helping that.</segment>
+		<segment id="8" parent="9" relname="motivation">The last comment I've made is we have been striving for distribution improvements and new channels.</segment>
+		<segment id="9" >And I think that is helping us getting incremental distribution. So going after new consumers.</segment>
+		<segment id="10" parent="11" relname="elaboration">And then the last comment would be, as we have</segment>
+		<segment id="11" parent="12" relname="motivation">-- we're really mastering the --</segment>
+		<segment id="12" >what I call the 360-degree consumer journey and shopper journey.</segment>
+		<segment id="13" parent="14" relname="elaboration">As the world is becoming more omnichannel, how do you target them?</segment>
+		<segment id="14" parent="22" relname="span">How do you reach them in the moment of where they start thinking about the category to the moment of decision-making?</segment>
+		<segment id="15" parent="22" relname="evidence">And I think all of this will help us in our journey.</segment>
+		<segment id="16" parent="17" relname="circumstance">So on the whole, yes, there is some concerns about consumer demand out there,</segment>
+		<segment id="17" >but I remain buoyant.</segment>
+		<segment id="18" parent="19" relname="circumstance">And if anything, I just think on the top line, look, one other quarter where we've beaten our own expectations,</segment>
+		<segment id="19" parent="21" relname="evaluation">and I think The Street,</segment>
+		<segment id="20" parent="21" relname="evaluation">so I feel pretty good about it.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+	</body>
+</rst>

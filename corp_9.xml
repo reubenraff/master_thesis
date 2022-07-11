@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">We modeled 3 different development spend scenarios.</segment>
+		<segment id="2" parent="3" relname="justify">We modeled in the impact of deep recession starting in the end of 2023, and then we've stressed them all for higher LIBOR rates in response to the change in interest rates that have occurred.</segment>
+		<segment id="3" >And that exercise gives us confidence that after the dilutive year from the sale of DC-6 that we can generate 4% or better growth.</segment>
+		<segment id="4" >Brian Spahn Okay.</segment>
+		<segment id="5" parent="6" relname="antithesis">And Anthony, your comment about recycling out of some assets at the end of this year, I assume that was directed toward more DC Shell sales.</segment>
+		<segment id="6" parent="21" relname="span">Is that right?</segment>
+		<segment id="7" parent="21" relname="condition">Anthony Mifsud That is one of the options that we have to generate approximately $75 million to $80 million worth of capital that we're projecting to need by the end of the year.</segment>
+		<segment id="8" >Brian Spahn Okay.</segment>
+		<segment id="9" parent="10" relname="circumstance">And to what extent are you exploring or having conversations regarding Regional Office sales?</segment>
+		<segment id="10" parent="22" relname="span">And how is that activity changed at all in light of the recent move in bond yields?</segment>
+		<segment id="11" parent="22" relname="justify">Steve Budorick Well, we monitor the capital market for office properties in Baltimore and in Northern Virginia and our data center at Shells each quarter.</segment>
+		<segment id="12" parent="11" relname="evidence">I would say that all of our regional assets are potential recycling candidates at some point in time as an alternative to the Shells.</segment>
+		<segment id="13" parent="12" relname="elaboration">And when we see an opportunity that is optimal for taking one of those to market, it's a definite possibility.</segment>
+		<segment id="14" >Operator Our next question comes from Jamie Feldman of Bank of America.</segment>
+		<segment id="15" >Unidentified Analyst This is [indiscernible] on for Jamie.</segment>
+		<segment id="16" parent="17" relname="circumstance">Kind of going along the line to the last question, could you talk a little bit more about the investor appetite for your assets, whether it's data center Shells or our regional office portfolio?</segment>
+		<segment id="17" parent="23" relname="span">Have cap rates or buyer pools changed with the rising interest rate environment?</segment>
+		<segment id="18" parent="23" relname="result">Steve Budorick Well, demand for our data center Shells has been extraordinary.</segment>
+		<segment id="19" parent="20" relname="circumstance">I don't believe demand has changed at all.</segment>
+		<segment id="20" >I have no comparable sales to provide indication that cap rates have crept higher on those assets.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+		<group id="23" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="background">And one of the things it does for our customers is that they know</segment>
+		<segment id="2" parent="3" relname="motivation">-- if a construction customer is trying to make a decision as to</segment>
+		<segment id="3" >whether or not they should buy a piece of equipment.</segment>
+		<segment id="4" parent="3" relname="justify">Do I make that capital investment now?</segment>
+		<segment id="5" parent="6" relname="condition">If they're confident there's a blend of work behind it,</segment>
+		<segment id="6" parent="7" relname="circumstance">they're much more likely to go ahead and make that capital investment</segment>
+		<segment id="7" >and buy that piece of equipment</segment>
+		<segment id="8" parent="7" relname="elaboration">because they know it will be utilized for quite some time moving forward.</segment>
+		<segment id="9" >To answer the first part of your question,</segment>
+		<segment id="10" parent="11" relname="background">we talked earlier about autonomy</segment>
+		<segment id="11" parent="12" relname="elaboration">and the way that we're -- again,</segment>
+		<segment id="12" parent="48" relname="span">in semiautonomous equipment as well.</segment>
+		<segment id="13" parent="14" relname="preparation">We're adopting technologies</segment>
+		<segment id="14" parent="49" relname="span">that kind of started in our mining space into construction as well.</segment>
+		<segment id="15" >So we believe that,</segment>
+		<segment id="16" parent="49" relname="solutionhood">that will help our customers.</segment>
+		<segment id="17" >We talked about remote control,</segment>
+		<segment id="18" >line of sight.</segment>
+		<segment id="19" parent="50" relname="span">An operator no longer</segment>
+		<segment id="20" >-- for many of our machines --</segment>
+		<segment id="21" parent="19" relname="circumstance">doesn't need to be in the machine.</segment>
+		<segment id="22" parent="23" relname="condition">They can do it remotely,</segment>
+		<segment id="23" parent="51" relname="span">they can do it from a location</segment>
+		<segment id="24" parent="51" relname="condition">that may be line of sight that's just safer</segment>
+		<segment id="25" parent="24" relname="condition">or they can do it from a completely remote location where they're in a different place.</segment>
+		<segment id="26" >And those technologies,</segment>
+		<segment id="27" >to answer your question,</segment>
+		<segment id="28" >didn't exist 10 years ago.</segment>
+		<segment id="29" >So that's a way that we're helping our customers be more efficient.</segment>
+		<segment id="30" >And again,</segment>
+		<segment id="31" >we believe that's something that gives us a competitive advantage as well</segment>
+		<segment id="32" >and we're committed to continue to invest in technology to keep that competitive edge.</segment>
+		<segment id="33" >Chad Dillard: Okay.</segment>
+		<segment id="34" >And sticking with infrastructure,</segment>
+		<segment id="35" >what sort of opportunities do you see with the ability to automate roadbuilding?</segment>
+		<segment id="36" >Jim Umpleby: Well, I believe that there will be opportunities there again.</segment>
+		<segment id="37" >We talked about autonomous and semiautonomous.</segment>
+		<segment id="38" >I suspect we talked at a trade show a while back about an autonomous soil compactor.</segment>
+		<segment id="39" >So I think we will have that in the future. Again, we're working on a whole variety of things there.</segment>
+		<segment id="40" >But it's an exciting time for the industry.</segment>
+		<segment id="41" >It's changing pretty rapidly.</segment>
+		<segment id="42" >Chad Dillard: And then what share of your revenues do subscriptions represent today?</segment>
+		<segment id="43" >And where do you think that could go in the next like 5 years, 10 years?</segment>
+		<segment id="44" >And maybe you can lay out like what are some of the key drivers that elevate you there?</segment>
+		<segment id="45" >Jim Umpleby Yes.</segment>
+		<segment id="46" >So we don't break out publicly disclosed subscription revenues.</segment>
+		<segment id="47" >Again, it's all part of -- as we think about it, we put together a total package. And what are we trying to accomplish? We're trying to always add value to our customers. We want our dealers to be more successful and we want to profitably grow Caterpillar. So when we develop our offerings, regardless of how those offerings are structured, we keep that in mind. And we don't -- frankly, we don't disclose what those revenues are. Chad Dillard Fair enough. Jim Umpleby We are disclosing once a year as you know. Chad Dillard So as we enter the energy transition, like what gaps do you think could be filled through M&amp;A? Jim Umpleby We continually charge our leaders to look at M&amp;A as opportunities to help us in a whole variety of ways. We talked about the Weir acquisition that we made, SPM acquisition we made when oil went negative, it was a good time to make that acquisition. That acquisition brought certain technologies like an electric-driven pump and it did some other things that we didn't have. We bought CarbonPoint Technology which is CO2 sequestration and capture. We bought a company called Marble Robotics which helps us -- helped us advance autonomy in construction equipment. So we're -- we've made a number of acquisitions like that, that brought us technology to help us move more quickly along both the autonomy journey, the sustainability journey and the services journey. And I suspect we'll continue to make those kinds of acquisitions. I'm often asked, I was asked this morning in one of the breakouts, okay, what about large acquisitions. We have a very strong balance sheet and we have the capability of the make large acquisitions. We're not out elephant hunting. I'm not saying we won't do it. But again, that's not our primary focus. Our primary focus is on acquisitions that help us advance the three areas I mentioned: Services, sustainability and technology as well. Chad Dillard Okay. Maybe on the flip side, divestitures. Can you talk about how your strategy, how your approach has changed? And is there anything that we should be thinking about in the near-term horizon? Jim Umpleby One of the things we did when we introduced our operating and execution model, our O&amp;E model a few years ago is we get much more granular understanding by product by application, where we're creating shareholder value and where we're not. And is often -- Caterpillar is often the case, I think, with many large manufacturing companies, we had a division, let's say that had a dozen products. And that division was exceptionally profitable. We tended not to get involved in the details and to leave them alone and allow them to invest to keep going. But then when we really got into the granular detail. We often understood that, let's say, six or seven of those products are creating shareholder value and five were not and hadn't been for a long time and the ones that were creating value were more than offsetting the ones that weren't. So now we look by product by application. We've gotten very granular understanding where we're creating shareholder value and where we're not. And those areas that aren't acceptably -- aren't providing an acceptable return on the capital they've invested, we've challenged the leaders to improve the profitability of those businesses. And in many cases, that has occurred. To answer your question and there are certain select cases, we've made a decision either based on market dynamics that you know what, if you look at the competitors in this space, no one does very well or in one case, I can think of our competitive position was such that we decided what we are better off investing our resources, our capital, our expense and our management time in areas that represent a better opportunity for future profitable growth. So we have made some divestments. We got other specialty forestry products. We made some divestments in mining of some of the pieces that came with the Bucyrus acquisition. More recently, we've announced that we will only stay in the service and parts and of our big MaK engines that are built in Germany and we'll get out of the OE. So we continue to look at our portfolio. And again, I suspect surgically, we'll make changes over time. I don't anticipate anything major there but we'll continue to do that. So that is all part of what we do. And it really comes down to, again, investing our resources in those areas that represent the best opportunity and future profitable growth and that's why we're driving services; that's what we're driving sustainability. And our measure for profitable growth internally is what we call OPAC which is operating profit after capital charge. So we charge our groups capital charge and then we expect them to produce a positive return after that capital charge. And what we drive is absolute OPAC dollar growth, again, operating profit after capital charge and we believe that, that absolute OPAC dollar growth aligns well with TSR over time. So that is our goal. So as we think about always the trade-off between margin percent and growth. Again, if we grow that absolute OPAC dollars, we believe that's very positive for our investors. Chad Dillard Okay. One more question for you online. To what extent do you hedge metals prices? Jim Umpleby We do a certain amount of that. We do a certain amount of hedging in steel and other things. Again, those only last for a certain period of time and we're not immune from some of the changes that have happened. What we have said though publicly this year is that we do expect price to more than offset manufacturing costs, labor and material cost increases. So we said that for the total company for the year. Chad Dillard So I guess in our last 30 seconds, what's the 30-second elevator pitch for why to buy CAT today? Jim Umpleby Well, again, I mean you just have to think about our creditability. We've met our margin targets each year for the last five years. In the last three years despite COVID, we've produced $14 billion of free cash flow. A lot of people wouldn't have thought possible. So as investors look increasingly to companies that return capital to shareholders through dividends or share repurchases or a dividend aristocrat, we've returned over the last three years, 101% of our free cash flow to shareholders. We've done what we said we're going to do and we believe our total addressable market is increasing. So we're very excited about the future. And in my 42 years with the company, I've never been more excited about our future as I am right now. Chad Dillard I think that's a good place to stop. Jim Umpleby All right. Thanks for your time. Appreciate it. Chad Dillard Bye, everyone. Jim Umpleby Thank you. Question-and-Answer Session End of Q&A</segment>
+		<group id="48" type="span" />
+		<group id="49" type="span" />
+		<group id="50" type="span" parent="48" relname="circumstance"/>
+		<group id="51" type="span" />
+	</body>
+</rst>

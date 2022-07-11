@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="24" relname="circumstance">Øystein Lodgaard, ABG.</segment>
+		<segment id="2" parent="1" relname="circumstance">How do you -- how long do you expect the positive effect</segment>
+		<segment id="3" parent="2" relname="elaboration">-- mix effect to continue to have a positive impact on your gross margin?</segment>
+		<segment id="4" parent="25" relname="elaboration">I mentioned at least in 2022.</segment>
+		<segment id="5" parent="4" relname="elaboration">So we commented -- Svenn-Tore commented,</segment>
+		<segment id="6" >I will say above 54% for the full year.</segment>
+		<segment id="7" parent="6" relname="restatement">So definitely, the rest of this year.</segment>
+		<segment id="8" parent="9" relname="result">But then we were working back to what we said during the Capital Markets Day,</segment>
+		<segment id="9" parent="27" relname="span">also the cellular IoT will have an impact on gross margins.</segment>
+		<segment id="10" parent="27" relname="restatement">So we're mainly just stating for the rest of this year at this point.</segment>
+		<segment id="11" parent="12" relname="circumstance">And then we have a question from Christoffer Bjørnsen, DNB.</segment>
+		<segment id="12" >Gross margin guidance for Q2 is 54%.</segment>
+		<segment id="13" parent="28" relname="condition">Is this just a temporary blip?</segment>
+		<segment id="14" parent="13" relname="condition">Or should we expect this level to continue in second half due to structural shift...</segment>
+		<segment id="15" parent="16" relname="restatement">I think we --</segment>
+		<segment id="16" parent="17" relname="condition">Pal answered it,</segment>
+		<segment id="17" parent="18" relname="elaboration">but it's not guided 54%.</segment>
+		<segment id="18" >It's guided above 54%.</segment>
+		<segment id="19" >Thank you.</segment>
+		<segment id="20" >Then we have a question from Adam from Bank of America.</segment>
+		<segment id="21" parent="20" relname="background">Is cellular gross margin still expected at 30% to 40%</segment>
+		<segment id="22" >over ramp period,</segment>
+		<segment id="23" parent="21" relname="circumstance">given that the short range is now 60%?</segment>
+		<group id="24" type="span" />
+		<group id="25" type="span" />
+		<group id="27" type="span" />
+		<group id="28" type="span" parent="12" relname="evaluation"/>
+	</body>
+</rst>

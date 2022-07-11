@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="span">Driven by higher storage,</segment>
+		<segment id="2" parent="1" relname="background">transportation and logistics costs in the U.S. and UK,</segment>
+		<segment id="3" parent="2" relname="elaboration">as well as non-recurring costs for the U.S. distribution network remodel,</segment>
+		<segment id="4" parent="3" relname="circumstance">and offset by higher margins in our Australia business unit.</segment>
+		<segment id="5" parent="21" relname="result">Repeat customer Sales retention was 80% which was above our expectations.</segment>
+		<segment id="6" parent="7" relname="circumstance">We had 9,64,000 active angels at the end of fiscal year 2022,</segment>
+		<segment id="7" >which was a 9% increase over the prior year,</segment>
+		<segment id="8" parent="7" relname="evaluation">reflecting the strength and the proposition with a strong comparative to the prior year.</segment>
+		<segment id="9" parent="8" relname="evidence">You can see here that our margins have improved compared to fiscal year 2020.</segment>
+		<segment id="10" parent="9" relname="elaboration">Benefiting from the increase scale in the business</segment>
+		<segment id="11" parent="10" relname="concession">and offset by the inflationary cost environment that we saw in fiscal year 2022.</segment>
+		<segment id="12" parent="13" relname="condition">Here you can see the impact of our gross margins improving</segment>
+		<segment id="13" parent="14" relname="result">and offset by higher fulfillment costs in the business driven by the global supply chain disruption</segment>
+		<segment id="14" >and the resulting increases in transportation and logistics costs.</segment>
+		<segment id="15" parent="16" relname="elaboration">This slide shows the group contribution profit by cohort</segment>
+		<segment id="16" >and percentage contribution retained in fiscal year 2022.</segment>
+		<segment id="17" parent="18" relname="evidence">As mentioned, our strong consumer proposition is driving high sales retention in the business.</segment>
+		<segment id="18" >And those loyal customers are driving a solid base of contribution profit.</segment>
+		<segment id="19" parent="20" relname="condition">Of our £86 million pounds a repeat contribution profit in fiscal year 2022,</segment>
+		<segment id="20" parent="22" relname="span">only £10.8 million was from cohorts that we acquired in the year.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" parent="18" relname="result"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="result">On this pro forma basis,</segment>
+		<segment id="2" >standstill EBIT totaled £27 million.</segment>
+		<segment id="3" >Turning to our key performance indicators for our investment in new customers.</segment>
+		<segment id="4" parent="22" relname="preparation">Our business model is built around investing in new cohorts of customers,</segment>
+		<segment id="5" parent="4" relname="preparation">and then earning a return on that initial investment over the lifetime of the customer cohort.</segment>
+		<segment id="6" parent="7" relname="circumstance">To acquire new customers,</segment>
+		<segment id="7" >we incurred a costs in the form of a discount</segment>
+		<segment id="8" parent="7" relname="condition">that we provide on the purchase of a first case of wine,</segment>
+		<segment id="9" parent="8" relname="elaboration">and then we also incur advertising costs as well.</segment>
+		<segment id="10" parent="11" relname="preparation">In fiscal year 2022,</segment>
+		<segment id="11" >investment in new customers was £41 million,</segment>
+		<segment id="12" parent="11" relname="condition">compared to £50 million in the prior year,</segment>
+		<segment id="13" parent="12" relname="result">reflecting new customer contribution loss of £7 million and advertising costs of £34 million.</segment>
+		<segment id="14" parent="15" relname="motivation">The five year forecasts of payback for fiscal year 2022 cohort was 1.5x below our prior year five year forecast payback of 2.6x,</segment>
+		<segment id="15" parent="16" relname="elaboration">driven by changes in the consumer environment,</segment>
+		<segment id="16" parent="17" relname="elaboration">as well as higher performance marketing</segment>
+		<segment id="17" >and fulfillment costs.</segment>
+		<segment id="18" parent="19" relname="concession">Overall, we've seen an improvement in the five year forecast of payback of cohorts acquired in the second half of fiscal year 2022.</segment>
+		<segment id="19" >However, we have also seen two changes mostly to cohorts acquired in the first half of the fiscal year.</segment>
+		<segment id="20" parent="21" relname="evaluation">First, as our cohorts have aged,</segment>
+		<segment id="21" parent="23" relname="result">we have seen higher churn early in the consumer lifecycle than our models initially predicted.</segment>
+		<group id="22" type="span" parent="3" relname="elaboration"/>
+		<group id="23" type="span" parent="19" relname="result"/>
+	</body>
+</rst>

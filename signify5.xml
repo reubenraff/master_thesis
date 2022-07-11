@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="condition">In Poland, we are modernizing the public lighting of Kutno with Interact City lighting system.</segment>
+		<segment id="2" >And in Spain where we're selling more than 4,000 LED lights in 5 municipal parks in Alcazar de San Juan.</segment>
+		<segment id="3" parent="4" relname="result">We're also replacing 9,000 street like points in 7 municipalities in the region of Ciudad Real.</segment>
+		<segment id="4" >The project pipeline is growing and increasing energy prices create an even stronger incentive to implement our solution.</segment>
+		<segment id="5" >And this brings us to the outlook on Slide 18.</segment>
+		<segment id="6" >So we are maintaining our guidance for 2022.</segment>
+		<segment id="7" parent="8" relname="preparation">This assumes that the Chinese market and global supply chain dynamics do not deteriorate further.</segment>
+		<segment id="8" >We are confident that we will manage the external volatility with the same agility as we demonstrated over the past years.</segment>
+		<segment id="9" >And with that, I would like to open the call for questions with both Javier and myself, I'm going to be happy to answer.</segment>
+		<segment id="10" >Question-and-Answer Session Operator [Operator Instructions].</segment>
+		<segment id="11" >Our first question comes from the line of George Featherstone from Bank of America.</segment>
+		<segment id="12" parent="13" relname="circumstance">George Featherstone I'd like to start with one on the supply chain.</segment>
+		<segment id="13" parent="14" relname="elaboration">Wondered if you could give us an update on the number of components that you have in escalation compared to the end of Q4 2021.</segment>
+		<segment id="14" >And also help us understand how you're impacted by the lockdowns in China, particularly how much we are sourcing requirements from the region?</segment>
+		<segment id="15" >Eric Rondolat Yes.</segment>
+		<segment id="16" parent="17" relname="evaluation">George, so if you remember, we went from 230 to 167, then we went to 90 and we are at 40 escalation level 4 at the end of Q1.</segment>
+		<segment id="17" >So as you can see, it has been improving all along.</segment>
+		<segment id="18" parent="17" relname="evaluation">We are still far from the situations that we experienced before the crisis, but that's clearly moving in the right direction.</segment>
+		<segment id="19" parent="20" relname="result">We have been implementing a lot of action in 2021 and in hindsight I mean they're really impacting now positively our performance.</segment>
+		<segment id="20" >We have multiplied our dual sourcing on key components which we didn't have in the future and it is also reflected in the number of escalation.</segment>
+		<segment id="21" parent="20" relname="antithesis">But I would say from a marginal standpoint, we talked about escalations, but we talked also about the vessel reliability.</segment>
+		<segment id="22" parent="23" relname="evaluation">We talked also about our suppliers lead time.</segment>
+		<segment id="23" >What we see is that, we were at the bottom and now we are in an improvement trend.</segment>
+		<segment id="24" parent="23" relname="condition">So we see all the indicators becoming now more positive than what they were before.</segment>
+		<segment id="25" parent="26" relname="result">I think that's a very good -- that's a very good sign after so many so many quarters.</segment>
+		<segment id="26" >But I think as far as we concern the measure that we have taken has helped us -- have helped us in especially in Q1 to be much less affected by competence issues.</segment>
+		<segment id="27" parent="28" relname="concession">China is a worry, effectively, we don't see so much of an impact yet in Q1.</segment>
+		<segment id="28" >Although, paralysis of some of the key regions and some of the key harbors namely Shanghai and to a given extent Ningbo would certainly have an impact on the supply chain, whether it is components that we are standing to other manufacturing regions or finished goods that are coming from China.</segment>
+		<segment id="29" parent="30" relname="circumstance">So this is why we put this as a condition for us moving forward, but the situation is extremely fluid.</segment>
+		<segment id="30" >Nobody knew at the end of the previous quarter that this will happen, would happen.</segment>
+		<segment id="31" parent="30" relname="preparation">We just need to -- we just need to adapt.</segment>
+		<segment id="32" parent="33" relname="preparation">So at this point in time, I will say that China doesn't have a major impact on the supply chain, but as the supply chain is globally improving, if really China goes into a massive lockdown, we could have a further deterioration.</segment>
+		<segment id="33" >But we'll see what we have ahead of us when things happen.</segment>
+		<segment id="34" parent="33" relname="condition">George Featherstone And just like to touch on a couple of other things data points that you usually provide that we have in this occasion.</segment>
+	</body>
+</rst>

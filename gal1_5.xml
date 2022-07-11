@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >we are very big on good, better, best.</segment>
+		<segment id="2" parent="1" relname="preparation">And in the last 3 years, we've sharpened that very much to make sure</segment>
+		<segment id="3" parent="2" relname="circumstance">that there's really good differentiation between good, better, best.</segment>
+		<segment id="4" parent="3" relname="evaluation">And so I think that allows us to cater to the different types of consumers.</segment>
+		<segment id="5" parent="6" relname="preparation">So I think that's the second part is a lot of our messaging in advertising,</segment>
+		<segment id="6" >social media were very much now on a value-based messaging</segment>
+		<segment id="7" parent="6" relname="justify">and making sure even though we've taken price increases with the strength of our brands,</segment>
+		<segment id="8" parent="7" relname="restatement">trying to show that we are a great value.</segment>
+		<segment id="9" parent="10" relname="evaluation">And the other aspect is, I think the fact that we've launched a lot of innovations.</segment>
+		<segment id="10" >Those innovations are providing the uniqueness that show, hey, even though we've taken our price.</segment>
+		<segment id="11" parent="13" relname="condition">I think consumers are looking for value rather than the absolute price point, and we think where we remain a good value.</segment>
+		<segment id="12" >So I -- and look,</segment>
+		<segment id="13" >there are many categories where -- now we're actually seeing consumption increases riding in different parts of the world.</segment>
+		<segment id="14" parent="13" relname="condition">We are seeing consumption increase.</segment>
+		<segment id="15" parent="16" relname="evidence">And now -- and as the office channel opens up,</segment>
+		<segment id="16" >we think that will continue to accelerate, and we are gaining share.</segment>
+		<segment id="17" parent="16" relname="elaboration">So just think about it, right, with our Sharpies, Paper Mate, we have fantastic gross margins.</segment>
+		<segment id="18" parent="19" relname="justify">We are growing and growing share. So I think we are fairly buoyant on that.</segment>
+		<segment id="19" >Commercial, which last year was very tough for the Commercial business</segment>
+		<segment id="20" parent="19" relname="concession">because of inflation and with office is pretty much closed.</segment>
+	</body>
+</rst>

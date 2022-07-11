@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Blaine Heck Okay.</segment>
+		<segment id="2" >Great.</segment>
+		<segment id="3" parent="4" relname="circumstance">And then just switching gears here.</segment>
+		<segment id="4" parent="21" relname="span">Just thinking about the inflation we've seen this year.</segment>
+		<segment id="5" >Steve, maybe can you talk about how that might be affecting development costs and whether your yields are being affected on that side of the business?</segment>
+		<segment id="6" >Steve Budorick Yes, that's a great question.</segment>
+		<segment id="7" parent="8" relname="result">So we actually did an exercise this last quarter, and we are benchmarking our 8,000 series developments, which are the easiest like-for-like comparison that we have in our portfolio.</segment>
+		<segment id="8" >And from RG 8000 to our most recent development, costs actually increased over 2 years, about 22%.</segment>
+		<segment id="9" parent="10" relname="result">But our rental rates that we've achieved are about 22% as well.</segment>
+		<segment id="10" parent="22" relname="span">So we've been able to increase our rent because of the strength of demand in Defense/IT to preserve our target development yields.</segment>
+		<segment id="11" parent="22" relname="concession">But of course, you realize as rents continue to -- or costs continue to escalate, that's a battle that we'll take on with each and every asset.</segment>
+		<segment id="12" >Blaine Heck Okay.</segment>
+		<segment id="13" >That's helpful.</segment>
+		<segment id="14" parent="15" relname="circumstance">And then Steve, sticking with you and more of a big pictured question here.</segment>
+		<segment id="15" parent="23" relname="span">What effect of the geopolitical tensions, like what we're seeing now with Russia have on increasing government and contractor demand for new space in your key markets?</segment>
+		<segment id="16" parent="17" relname="elaboration">Are there any prior instances you could point to where a new military conflict or rising geopolitical stress seem to lead to increased space needs within your portfolio?</segment>
+		<segment id="17" parent="18" relname="circumstance">And maybe help us understand how that played out.</segment>
+		<segment id="18" parent="19" relname="elaboration">What was the time frame?</segment>
+		<segment id="19" parent="24" relname="span">And what was the scope of the increase in demand?</segment>
+		<segment id="20" parent="24" relname="concession">Steve Budorick So I haven't had anything occur quite like this while I've been with the company.</segment>
+		<group id="21" type="span" parent="5" relname="elaboration"/>
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="16" relname="elaboration"/>
+		<group id="24" type="span" />
+	</body>
+</rst>

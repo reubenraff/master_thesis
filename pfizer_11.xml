@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="condition">Presumably the NVIDIA resources dedicated to you is still there,</segment>
+		<segment id="2" parent="30" relname="span">the technologists who wrote the algorithms are still there,</segment>
+		<segment id="3" parent="30" relname="purpose">and you're applying them to a new problem as we go along.</segment>
+		<segment id="4" parent="5" relname="condition">Is there another field where you can say, look, it used to take us four years to develop molecules;</segment>
+		<segment id="5" parent="31" relname="span">in this field, we're able to take within several months,</segment>
+		<segment id="6" parent="31" relname="result">we basically get our lead compound by using machine learning technology?</segment>
+		<segment id="7" parent="8" relname="concession">Albert Bourla Let me clarify something.</segment>
+		<segment id="8" parent="32" relname="span">PAXLOVID was one of the first one that we did by using AI.</segment>
+		<segment id="9" parent="32" relname="elaboration">We are using that constantly.</segment>
+		<segment id="10" parent="9" relname="purpose">We are using that constantly in our oncology medicines that we're doing.</segment>
+		<segment id="11" parent="12" relname="preparation">And it is just that with PAXLOVID,</segment>
+		<segment id="12" parent="33" relname="span">it happened that we developed it to a certain level that was quite mature to be more successful now,</segment>
+		<segment id="13" parent="33" relname="justify">because technologies are rapidly.</segment>
+		<segment id="14" parent="15" relname="condition">We had invested the computational power what is needed for something like that.</segment>
+		<segment id="15" parent="34" relname="span">And as I said, we used also the regulatory environment.</segment>
+		<segment id="16" parent="34" relname="elaboration">But we did and we will continue doing a lot of things.</segment>
+		<segment id="17" parent="16" relname="circumstance">Frankly, Pfizer is trying to move as much as possible from drug discovery to drug design.</segment>
+		<segment id="18" >Unidentified Analyst Okay.</segment>
+		<segment id="19" parent="20" relname="evaluation">And is this a consistent advantage you have with some of your peers?</segment>
+		<segment id="20" parent="35" relname="span">So essentially, is this something that you basically say, look, we've got something here where we are ahead of the industry?</segment>
+		<segment id="21" parent="35" relname="condition">And if we work on this, this could be a sustainable real business advantage?</segment>
+		<segment id="22" parent="21" relname="evaluation">Albert Bourla I think it could be. I don't think we are there right now.</segment>
+		<segment id="23" parent="24" relname="concession">I don't have any data to claim that in using AI or,</segment>
+		<segment id="24" >let's say, computational design, we are better than others.</segment>
+		<segment id="25" parent="26" relname="circumstance">I do have data to compare other capabilities of Pfizer.</segment>
+		<segment id="26" parent="36" relname="span">I think in commercial,</segment>
+		<segment id="27" >I do have data that are showing that we are top in manufacturing.</segment>
+		<segment id="28" parent="37" relname="span">I have data to comment to say that we are top in clinical development,</segment>
+		<segment id="29" parent="28" relname="evaluation">multiple benchmarks that we are very good.</segment>
+		<group id="30" type="span" />
+		<group id="31" type="span" parent="3" relname="justify"/>
+		<group id="32" type="span" />
+		<group id="33" type="span" />
+		<group id="34" type="span" />
+		<group id="35" type="span" />
+		<group id="36" type="span" parent="27" relname="elaboration"/>
+		<group id="37" type="span" parent="27" relname="condition"/>
+	</body>
+</rst>

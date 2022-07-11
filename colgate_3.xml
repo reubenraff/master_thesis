@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="22" relname="circumstance">This is offsetting what we think will be a very solid year for organic sales growth now</segment>
+		<segment id="2" parent="1" relname="circumstance">that we are seeing our global supply chain stabilize following COVID-related lockdowns</segment>
+		<segment id="3" parent="22" relname="condition">and stress in logistic networks around the world [Technical Difficulty] sales growth for the balance of the year.</segment>
+		<segment id="4" parent="5" relname="background">First off, we knew that Q1 will be the most difficult quarter given comparisons,</segment>
+		<segment id="5" >supply chain issues and pricing negotiations.</segment>
+		<segment id="6" parent="5" relname="result">We exited the quarter with high single-digit pricing as we took more pricing in developed markets starting in February</segment>
+		<segment id="7" parent="6" relname="elaboration">and continuing into April.</segment>
+		<segment id="8" parent="9" relname="circumstance">We believe this is more indicative of the pricing we will see for the balance of the year.</segment>
+		<segment id="9" >Elasticity seemed to be either in line or better than expectations</segment>
+		<segment id="10" parent="9" relname="motivation">and this should help limit incremental volume weakness from the higher pricing over the balance of the year.</segment>
+		<segment id="11" parent="12" relname="circumstance">Encouragingly, as we said in our prepared remarks,</segment>
+		<segment id="12" >volume and organic sales performance improved in February and March</segment>
+		<segment id="13" parent="12" relname="condition">versus January</segment>
+		<segment id="14" parent="12" relname="elaboration">and organic sales growth has continued to accelerate in April.</segment>
+		<segment id="15" parent="16" relname="evidence">Importantly, we are beginning to see the benefits of the stabilization in our global supply chain network with the impacts of COVID-related factory closures behind us</segment>
+		<segment id="16" >and the opening of the global logistic capacities.</segment>
+		<segment id="17" parent="16" relname="condition">Our guidance does not assume further COVID-related lockdowns in the balance of the year that would impact our ability to manufacture and distribute our products.</segment>
+		<segment id="18" parent="19" relname="preparation">Our U.S. on-shelf availability for toothpaste has been below normal for several months as we dealt with the same supply chain challenges you have heard about from other companies.</segment>
+		<segment id="19" parent="23" relname="preparation">By tapping into our global supply chain,</segment>
+		<segment id="20" parent="24" relname="result">we were able to restore shipments and our availability is now back to normal levels,</segment>
+		<segment id="21" parent="20" relname="result">which you are seeing reflected in better market share performance in toothpaste.</segment>
+		<group id="22" type="span" />
+		<group id="23" type="span" />
+		<group id="24" type="span" parent="23" relname="solutionhood"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="background">Today, I'm pleased to present Eric Rondolat,</segment>
+		<segment id="2" >CEO; Javier Van Engelen, CFO; Thelke Gerdes, Head of IR.</segment>
+		<segment id="3" >Please go ahead with your meeting.</segment>
+		<segment id="4" parent="5" relname="condition">Thelke Gerdes Good morning, everyone,</segment>
+		<segment id="5" >and welcome to Signify's Earnings Call for the First Quarter 2022.</segment>
+		<segment id="6" parent="7" relname="condition">With me today are Eric Rondolat, the CEO of Signify and Javier Van Engelen, the CFO.</segment>
+		<segment id="7" >During the call, Eric will first take you through the business and operational performance,</segment>
+		<segment id="8" parent="9" relname="preparation">after which Javier will review the company's financial performance for the first quarter.</segment>
+		<segment id="9" >Eric will then discuss the outlook and closing remarks.</segment>
+		<segment id="10" parent="11" relname="circumstance">After that, we'll be happy to take your questions.</segment>
+		<segment id="11" >Our press release and presentation were published at 7 o'clock this morning,</segment>
+		<segment id="12" parent="11" relname="elaboration">both documents are available for download on our Investor Relations website.</segment>
+		<segment id="13" >The transcript of this conference call will be made available as soon as possible on our Investor Relations website.</segment>
+		<segment id="14" >And with that, I hand over to you, Eric.</segment>
+		<segment id="15" >Eric Rondolat Thank you, Thelke.</segment>
+		<segment id="16" >Good morning, everyone, and thank you for joining us today.</segment>
+		<segment id="17" >Let's start with some of the highlights for the first quarter immediately on Slide 4.</segment>
+		<segment id="18" parent="19" relname="concession">So Signify delivered top line growth driven by a strong momentum within the Digital Solution division.</segment>
+		<segment id="19" parent="20" relname="condition">As you know, operating conditions in the quarter became more challenging.</segment>
+		<segment id="20" parent="21" relname="elaboration">Our main priority was to protect and support our Ukrainian employees</segment>
+		<segment id="21" >and their families in the best possible way</segment>
+		<segment id="22" parent="20" relname="evaluation">and we very happy to see a very strong engagement from our colleagues</segment>
+		<segment id="23" parent="22" relname="purpose">and the Signify foundation supporting the people and communities affected by the war.</segment>
+	</body>
+</rst>

@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="circumstance">When you look at the situation of harbors today,</segment>
+		<segment id="2" parent="3" relname="condition">it is not solved and there are still many,</segment>
+		<segment id="3" parent="4" relname="circumstance">many vessels that are not off loading and they are staying on the sea,</segment>
+		<segment id="4" parent="5" relname="evidence">so situation is not completely solved,</segment>
+		<segment id="5" parent="6" relname="motivation">but it's in a momentum of improvement.</segment>
+		<segment id="6" parent="7" relname="concession">And we will not want that momentum to be broken by the situation of China at this point in time.</segment>
+		<segment id="7" >So pricing going further, we'll see we'll adapt, I think we cannot price up forever.</segment>
+		<segment id="8" parent="9" relname="evaluation">We need to make sure also that we are well positioned for the people to buy our products.</segment>
+		<segment id="9" parent="10" relname="concession">Sven Weier And the slowing you see on the consumer side probably as you said is largely a sentiment phenomenon,</segment>
+		<segment id="10" parent="11" relname="circumstance">but you don't really see an issue of saturation that's</segment>
+		<segment id="11" parent="12" relname="evidence">because during the lockdown now people bought a lot of goods, refurbished their homes,</segment>
+		<segment id="12" >a fair bit of a saturation issue as well that you see?</segment>
+		<segment id="13" >Eric Rondolat No.</segment>
+		<segment id="14" parent="15" relname="condition">I don't -- that's specifically on the LED side because the crisis</segment>
+		<segment id="15" parent="16" relname="result">that we see today is pushing people to buy more LEDs.</segment>
+		<segment id="16" parent="17" relname="result">On the connected side, I think we have increased penetration greatly in 2021</segment>
+		<segment id="17" parent="18" relname="circumstance">and we get the benefits right now because more</segment>
+		<segment id="18" parent="19" relname="evaluation">and more consumers understand the virtue of connected more and more</segment>
+		<segment id="19" >and I appreciate the solution that we bring as being really differentiated.</segment>
+	</body>
+</rst>

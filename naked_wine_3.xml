@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="motivation">And when you do that, a few great things happen.</segment>
+		<segment id="2" >For wine makers, we're able to solve the first challenge that have access to capital by supporting them,</segment>
+		<segment id="3" parent="2" relname="result">harnessing the power of nearly a million members globally,</segment>
+		<segment id="4" parent="6" relname="solutionhood">we're able to provide winemakers with the capital they need to get started,</segment>
+		<segment id="5" >and indeed,</segment>
+		<segment id="6" >to finance the growth of their brands as they're successful.</segment>
+		<segment id="7" parent="8" relname="restatement">We do that in a unique way</segment>
+		<segment id="8" >that preserves for them a sense of autonomy and making wines they're truly passionate about,</segment>
+		<segment id="9" parent="8" relname="solutionhood">and we do that in a way that enables them to access great reward.</segment>
+		<segment id="10" parent="9" relname="restatement">And that's a unique combination for winemakers.</segment>
+		<segment id="11" parent="12" relname="solutionhood">We also then solve the second problem.</segment>
+		<segment id="12" >Our wine makers make brands exclusively for Naked Wines with a guarantee of sale.</segment>
+		<segment id="13" parent="12" relname="purpose">That means we solve their challenge around distribution.</segment>
+		<segment id="14" parent="13" relname="condition">And those products are exclusively available to our angel members.</segment>
+		<segment id="15" parent="14" relname="purpose">In doing that for consumers we're able to offer greater value for money.</segment>
+		<segment id="16" parent="17" relname="condition">And because they've helped to make these wines possible</segment>
+		<segment id="17" parent="18" relname="result">and because we're selling directly with no intermediaries,</segment>
+		<segment id="18" >we're able to offer amazing quality and much better value than the market.</segment>
+		<segment id="19" parent="20" relname="purpose">And consumers get access to exclusive wines from world class winemakers</segment>
+		<segment id="20" >and have a direct connection to them being able to chat backwards and forwards on our app,</segment>
+		<segment id="21" parent="20" relname="elaboration">meet them in person at events like our tasting tour going on in the UK as we speak.</segment>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="21" relname="span">On a two-year stack basis, group sales increased 78% on a constant currency basis.</segment>
+		<segment id="2" parent="1" relname="result">Repeat customer contribution profit was £86 million relatively flat with the prior year,</segment>
+		<segment id="3" parent="21" relname="evidence">driven by 13% increase in repeat customer sales on a constant currency basis</segment>
+		<segment id="4" parent="3" relname="circumstance">and offset by higher logistics and transportation costs due to the global supply chain disruption.</segment>
+		<segment id="5" parent="6" relname="concession">We invested £41 million in acquiring new customers,</segment>
+		<segment id="6" parent="22" relname="span">which was less than we did in fiscal year 2021,</segment>
+		<segment id="7" parent="22" relname="solutionhood">when we accelerated to capture the decrease in acquisition costs during COVID-19 lockdowns.</segment>
+		<segment id="8" parent="9" relname="result">To put our fiscal year 2022 investment levels in context,</segment>
+		<segment id="9" >it was 76% higher than we did in fiscal year 2020.</segment>
+		<segment id="10" parent="11" relname="motivation">And importantly, we delivered adjusted EBIT profit of £2 million,</segment>
+		<segment id="11" >driven by a strong demand from existing numbers and strong expense control.</segment>
+		<segment id="12" parent="13" relname="elaboration">Turning now to costs.</segment>
+		<segment id="13" >Gross profit was £142 million with a gross margin of 40%,</segment>
+		<segment id="14" parent="13" relname="evaluation">which is a 60 basis point increase over the prior year,</segment>
+		<segment id="15" parent="14" relname="evidence">driven by a higher mix of repeat versus new customer sales,</segment>
+		<segment id="16" parent="15" relname="concession">as well as improvement in Australia gross margins.</segment>
+		<segment id="17" parent="18" relname="motivation">Fulfillment costs as a percentage of total sales were slightly higher in fiscal year 2022 at 18% of total sales versus 17% in the prior year.</segment>
+		<segment id="18" >The increase was primarily driven by increased logistics and transportation costs.</segment>
+		<segment id="19" parent="20" relname="preparation">During the year we implemented automation in our UK distribution center</segment>
+		<segment id="20" parent="23" relname="span">and remodeled our U.S. distribution network.</segment>
+		<group id="21" type="span" />
+		<group id="22" type="span" />
+		<group id="23" type="span" parent="18" relname="purpose"/>
+	</body>
+</rst>

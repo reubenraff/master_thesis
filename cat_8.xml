@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="elaboration">We're investing in AI,</segment>
+		<segment id="2" >we're investing to connect assets,</segment>
+		<segment id="3" parent="2" relname="circumstance">1.2 million connected assets</segment>
+		<segment id="4" parent="3" relname="condition">and we're asking our dealers to do certain things as well.</segment>
+		<segment id="5" parent="6" relname="restatement">But again,</segment>
+		<segment id="6" >our economic interests are aligned.</segment>
+		<segment id="7" parent="6" relname="motivation">So I do believe that we'll make this happen.</segment>
+		<segment id="8" parent="9" relname="background">Chad Dillard So just shifting over to construction.</segment>
+		<segment id="9" >There's obviously a pretty significant infrastructure cycle that's starting to ramp up.</segment>
+		<segment id="10" >And so my question is,</segment>
+		<segment id="11" parent="12" relname="evidence">what sort of productivity-enhancing technology</segment>
+		<segment id="12" >can CAT offer that wasn't present in any prior infrastructure cycle?</segment>
+		<segment id="13" parent="15" relname="evaluation">And are you starting to see like any real uptake or incremental adoption here?</segment>
+		<segment id="14" >Jim Umpleby So maybe to answer the last part of your question first.</segment>
+		<segment id="15" >So we are very pleased with the Infrastructure Bill passed.</segment>
+		<segment id="16" parent="17" relname="evaluation">Our expectation is that,</segment>
+		<segment id="17" parent="18" relname="elaboration">that will manifest itself into actual business for us,</segment>
+		<segment id="18" parent="20" relname="concession">probably late this year,</segment>
+		<segment id="19" parent="20" relname="concession">more likely in 2023.</segment>
+		<group id="20" type="span" />
+	</body>
+</rst>

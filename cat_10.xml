@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="evaluation" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="restatement" type="multinuc"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="purpose">It positions us very well for service opportunities as well</segment>
+		<segment id="2" >Because our employees are there, again, helping our customers avoid unplanned downtime, being proactive about repairs that can help utilize our AI tools to help them as well</segment>
+		<segment id="3" parent="4" relname="evaluation">So again, a lot of opportunity here that we're quite excited about</segment>
+		<segment id="4" >It really truly is a game changer</segment>
+		<segment id="5" parent="6" relname="preparation">Chad Dillard So, I'm actually going to take some questions from online</segment>
+		<segment id="6" >And just a reminder, if you'd like to have your question asked, please log on to pigeonhole and back it out [ph]</segment>
+		<segment id="7" parent="8" relname="evidence">So are you seeing improvement stability or degradation in the supply chain? And what actions are you taking to reorient the supply chain to alleviate any of those challenges</segment>
+		<segment id="8" >Jim Umpleby Yes, it's a very, very good and topical question</segment>
+		<segment id="9" >So we haven't seen a degradation nor have we seen an improvement in our supply chain situation</segment>
+		<segment id="10" parent="9" relname="concession">Semiconductors continue to be a challenge</segment>
+		<segment id="11" parent="12" relname="evaluation">With other components, we'll resolve one issue, then one will pop up some other place</segment>
+		<segment id="12" >So again, it hasn't gotten worse -- hasn't gotten materially worse, hasn't gotten materially better</segment>
+		<segment id="13" parent="12" relname="preparation">Having said that, certainly, we're working to put more resilience in our supply chain, everything from dual sourcing to thinking about where we source</segment>
+		<segment id="14" parent="15" relname="elaboration">We're a global manufacturing company</segment>
+		<segment id="15" >So we manufacture in many different parts of the world</segment>
+		<segment id="16" parent="17" relname="evaluation">We're working to ensure that we have multiple sources in various places, hopefully close to where we build the end product</segment>
+		<segment id="17" >But again, I think this lesson over the last few years has taught us the importance of resiliency</segment>
+		<segment id="18" parent="19" relname="motivation">Cost is still important but resiliency is there as well</segment>
+		<segment id="19" >Geopolitical tensions, just distance, port issues, issues with transportation</segment>
+		<segment id="20" parent="19" relname="evaluation">I think it's all led all manufacturing companies just step back and think about how they want to do this</segment>
+	</body>
+</rst>
