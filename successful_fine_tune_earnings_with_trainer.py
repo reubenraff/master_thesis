@@ -160,7 +160,7 @@ class BertForSequenceClassification(nn.Module):
         return logits
 
 import torch
-text = "why is Pelosi going to Taiwan right now"
+text = "What is Weather in Brooklyn today?"
 zz = earnings_tokenizer.tokenize(text)
 tokens_tensor = torch.tensor([earnings_tokenizer.convert_tokens_to_ids(zz)])
 
@@ -190,9 +190,6 @@ def tokenize_function(example):
 tokenized_earnings_dataset = raw_datasets.map(tokenize_function, batched=True)
 data_collator = DataCollatorWithPadding(tokenizer=earnings_tokenizer)
 
-#print(tokenized_datasets["input_ids"])
-
-#input_ids = bio_tokenizer(sentence,truncation=True, add_special_tokens=True,max_length=512)['input_ids']
 
 wordpieces = [earnings_tokenizer.decode(input_id) for input_id in tokenized_earnings_dataset["input_ids"]]
 print(wordpieces)
@@ -210,8 +207,6 @@ with torch.no_grad():
   outputs = earnings_model(**inputs)
 print(outputs.last_hidden_state[:,0])
 outputs.last_hidden_state[:,0].size()
-
-#print(tokenized_earnings_dataset["input_ids"])
 
 tokenized_earnings_dataset
 clean_tokenized_earnings = tokenized_earnings_dataset.remove_columns(["#text", "parent_text", "__index_level_0__"])
@@ -268,20 +263,9 @@ dummy_clf = DummyClassifier(strategy="most_frequent")
 dummy_clf.fit(X_train,y_train)
 dummy_clf.score(X_valid,y_valid)
 
-#tokenized_datasets = tokenized_datasets.remove_columns(["#text", "parent_text", "__index_level_0__"])
-#tokenized_datasets = tokenized_datasets.rename_column("int_relation", "labels")
-#tokenized_datasets.set_format("torch",columns=["input_ids","attention_mask","label"])
-#tokenized_datasets.column_names
 
-#tokenized_datasets.remove_column("#text")
-#tokenized_datasets.remove_column("#text")
-#tokenized_datasets.rename_column("int_relation","label")
-#input_ids, attention_mask, token_type_ids, labels
-#print(len(tokenized_datasets["int_relation"]))
-#print(len(set(tokenized_datasets["int_relation"])))
-#tokenized_datasets
 
-#tokenized_earnings_dict = tokenized_datasets.train_test_split(test_size=0.2)
+
 
 import torch
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -315,25 +299,7 @@ class MultiClassTrainer(Trainer):
         loss = loss_fct(logits.squeeze(), labels.squeeze())
         return (loss, outputs) if return_outputs else loss
 
-"""
-from transformers import TrainingArguments, Trainer
-batch_size = 128
 
-logging_steps = len(tokenized_earnings_encoded["train"]) // batch_size
-
-model_name = f"{model_ckpt}-finetuned-earnings"
-training_args = TrainingArguments(output_dir=model_name,
-                                  num_train_epochs=30,
-                                  learning_rate=1e-3,
-                                  per_device_train_batch_size=batch_size,
-                                  per_device_eval_batch_size=batch_size,
-                                  weight_decay=0.01,
-                                  evaluation_strategy="epoch",
-                                  disable_tqdm=False,
-                                  optim="adamw_torch",
-                                  logging_steps=logging_steps,
-                                  log_level="error")
-"""
 
 from transformers import TrainingArguments, Trainer
 batch_size = 128
