@@ -160,7 +160,7 @@ class BertForSequenceClassification(nn.Module):
         return logits
 
 import torch
-text = "What is Weather in Brooklyn today?"
+text = "What is the weather in Brooklyn today?"
 zz = earnings_tokenizer.tokenize(text)
 tokens_tensor = torch.tensor([earnings_tokenizer.convert_tokens_to_ids(zz)])
 
